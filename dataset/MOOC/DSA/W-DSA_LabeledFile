@@ -1,0 +1,339 @@
+ackermann function		connected component		-
+ackermann function		deterministic algorithm		-
+ackermann function		linear probing		-
+ackermann function		merge sort		-
+ackermann function		minimum spanning tree		-
+ackermann function		randomized algorithm		-
+ackermann function		sort algorithm		-
+ackermann function		spanning tree		-
+acyclic graph		connected component		-1
+acyclic graph		directed acyclic graph		-1
+acyclic graph		directed graph		-
+acyclic graph		search algorithm		-
+acyclic graph		search problem		-
+acyclic graph		shortest path		-
+adjacency matrix		connected component		-
+adjacency matrix		directed graph		-
+approximation algorithm		bipartite graph		-
+approximation algorithm		directed graph		-
+approximation algorithm		dynamic program		-
+approximation algorithm		hamiltonian cycle		-
+approximation algorithm		minimum spanning tree		-
+approximation algorithm		search problem		1-
+approximation algorithm		spanning tree		-
+approximation algorithm		triangle inequality		-
+asymptotic analysis		bubble sort		-
+asymptotic analysis		connected component		-
+asymptotic analysis		merge sort		-
+asymptotic analysis		selection sort		-
+asymptotic analysis		sort algorithm		-
+binary code		binary search		-
+binary code		binary search tree		-1
+binary code		binary tree		-1
+binary code		dynamic program		-
+binary code		greedy algorithm		-
+binary code		search tree		-
+binary code		spanning tree		-
+binary heap		binary search		1-
+binary heap		binary tree		1-
+binary heap		connected component		-
+binary heap		doubly linked list		1-
+binary heap		greedy algorithm		-
+binary heap		linked list		1-
+binary heap		minimum spanning tree		-
+binary heap		priority queue		-1
+binary heap		selection sort		-
+binary heap		shortest path		-
+binary heap		sort algorithm		-
+binary heap		spanning tree		-
+binary search		binary search tree		-1
+binary search		binary tree		-
+binary search		doubly linked list		-
+binary search		dynamic program		-
+binary search		greedy algorithm		-
+binary search		linear probing		-
+binary search		linear search		-
+binary search		linked list		-
+binary search		merge sort		-
+binary search		minimum spanning tree		-
+binary search		nearest neighbor		-
+binary search		priority queue		-
+binary search		randomized algorithm		-
+binary search		search algorithm		1-
+binary search		search problem		-
+binary search		search tree		-
+binary search		select algorithm		-
+binary search		selection sort		-
+binary search		shortest path		-
+binary search		sort algorithm		-
+binary search		spanning tree		-
+binary search		sweep line algorithm		-
+binary search tree		binary tree		1-
+binary search tree		doubly linked list		-
+binary search tree		dynamic program		-
+binary search tree		greedy algorithm		-
+binary search tree		linear probing		-
+binary search tree		linked list		-
+binary search tree		merge sort		-
+binary search tree		minimum spanning tree		-
+binary search tree		nearest neighbor		-
+binary search tree		priority queue		-
+binary search tree		randomized algorithm		-
+binary search tree		search problem		-
+binary search tree		search tree		1-
+binary search tree		select algorithm		-
+binary search tree		selection sort		-
+binary search tree		shortest path		-
+binary search tree		sort algorithm		-
+binary search tree		spanning tree		-
+binary search tree		sweep line algorithm		-
+binary tree		directed graph		-
+binary tree		dynamic program		-
+binary tree		greedy algorithm		-
+binary tree		knockout tournament		-
+binary tree		linear search		-
+binary tree		linked list		-
+binary tree		merge sort		-
+binary tree		minimum spanning tree		-
+binary tree		nearest neighbor		-
+binary tree		priority queue		-
+binary tree		search problem		-
+binary tree		search tree		1-
+binary tree		selection sort		-
+binary tree		shortest path		-
+binary tree		shortest path problem		-
+binary tree		sort algorithm		-
+binary tree		spanning tree		-
+binary tree		sweep line algorithm		-
+bipartite graph		directed graph		1-
+bubble sort		greedy algorithm		-
+bubble sort		merge sort		-
+bubble sort		selection sort		-
+bubble sort		sort algorithm		1-
+bucket sort		deterministic algorithm		1-
+bucket sort		randomized algorithm		-
+bucket sort		sort algorithm		1-
+connected component		deterministic algorithm		-
+connected component		directed acyclic graph		1-
+connected component		directed graph		1-
+connected component		doubly linked list		-
+connected component		greedy algorithm		-
+connected component		linked list		-
+connected component		merge sort		-
+connected component		minimum spanning tree		-
+connected component		priority queue		-
+connected component		randomized algorithm		-
+connected component		search algorithm		-
+connected component		search tree		-
+connected component		shortest path		-
+connected component		shortest path problem		-
+connected component		sort algorithm		-
+connected component		spanning tree		-
+contraction hierarchies		priority queue		-
+contraction hierarchies		shortest path		1-
+cryptographic hash		linear probing		-
+cryptographic hash		linked list		-
+cryptographic hash		merge sort		-
+cryptographic hash		sort algorithm		-
+de bruijn graph		directed graph		1-
+de bruijn graph		eulerian path		1-
+de bruijn graph		hamiltonian cycle		1-
+deterministic algorithm		knockout tournament		-
+deterministic algorithm		merge sort		-1
+deterministic algorithm		minimum spanning tree		-
+deterministic algorithm		random variable		-
+deterministic algorithm		randomized algorithm		-
+deterministic algorithm		select algorithm		-
+deterministic algorithm		sort algorithm		1-
+deterministic algorithm		spanning tree		-
+directed acyclic graph		directed graph		1-
+directed acyclic graph		search algorithm		-
+directed acyclic graph		search problem		-
+directed acyclic graph		shortest path		-
+directed graph		doubly linked list		-
+directed graph		dynamic program		-
+directed graph		eulerian path		-1
+directed graph		greedy algorithm		-
+directed graph		hamiltonian cycle		-1
+directed graph		knockout tournament		-
+directed graph		linear search		-
+directed graph		linked list		-
+directed graph		minimum spanning tree		-
+directed graph		random variable		-
+directed graph		randomized algorithm		-
+directed graph		search algorithm		-
+directed graph		search problem		-
+directed graph		search tree		-
+directed graph		shortest path		-
+directed graph		shortest path problem		-
+directed graph		spanning tree		-
+directed graph		triangle inequality		-
+doubly linked list		linked list		1-
+doubly linked list		nearest neighbor		-
+doubly linked list		priority queue		-
+doubly linked list		search algorithm		-
+doubly linked list		search problem		-
+doubly linked list		search tree		-
+doubly linked list		shortest path		-
+dynamic program		greatest common divisor		-
+dynamic program		greedy algorithm		-
+dynamic program		linear program		-
+dynamic program		merge sort		-
+dynamic program		minimum spanning tree		-
+dynamic program		nearest neighbor		-
+dynamic program		randomized algorithm		-
+dynamic program		search algorithm		-
+dynamic program		search problem		-
+dynamic program		search tree		-
+dynamic program		shortest path		-
+dynamic program		shortest path problem		-
+dynamic program		sort algorithm		-
+dynamic program		spanning tree		-
+euclidean distance		greedy algorithm		-
+euclidean distance		linear search		-
+euclidean distance		merge sort		-
+euclidean distance		minimum spanning tree		-1
+euclidean distance		search algorithm		-
+euclidean distance		shortest path		-1
+euclidean distance		sort algorithm		-
+euclidean distance		spanning tree		-
+euclidean distance		triangle inequality		-
+eulerian path		hamiltonian cycle		-
+graham scan		shortest path		-
+graham scan		sort algorithm		-
+greatest common divisor		greedy algorithm		-
+greedy algorithm		merge sort		-
+greedy algorithm		minimum spanning tree		-
+greedy algorithm		nearest neighbor		-
+greedy algorithm		priority queue		-
+greedy algorithm		randomized algorithm		-
+greedy algorithm		search problem		-
+greedy algorithm		search tree		-
+greedy algorithm		shortest path		-
+greedy algorithm		shortest path problem		1-
+greedy algorithm		sort algorithm		-
+greedy algorithm		spanning tree		-
+hamiltonian cycle		minimum spanning tree		-
+hamiltonian cycle		search problem		1-
+hamiltonian cycle		spanning tree		-
+hamiltonian cycle		triangle inequality		-
+knockout tournament		linear search		-
+knockout tournament		merge sort		-
+knockout tournament		minimum spanning tree		-
+knockout tournament		randomized algorithm		-
+knockout tournament		select algorithm		-1
+knockout tournament		shortest path		-
+knockout tournament		shortest path problem		-
+knockout tournament		spanning tree		-
+linear function		linear inequality		-1
+linear function		linear program		-1
+linear inequality		linear program		-
+linear probing		linear program		-
+linear probing		linked list		-
+linear probing		merge sort		-
+linear probing		random variable		1-
+linear probing		search tree		-
+linear probing		select algorithm		-
+linear probing		sort algorithm		-
+linear program		linked list		-
+linear program		random variable		-
+linear program		search problem		-
+linear program		select algorithm		-
+linear program		shortest path		-
+linear program		shortest path problem		-
+linear search		linked list		-
+linear search		merge sort		-
+linear search		search algorithm		1-
+linear search		shortest path		-
+linear search		shortest path problem		-
+linear search		sort algorithm		-
+linked list		random variable		-
+linked list		merge sort		-
+linked list		nearest neighbor		-
+linked list		priority queue		-1
+linked list		search algorithm		-
+linked list		search problem		-
+linked list		search tree		-1
+linked list		select algorithm		-
+linked list		shortest path		-
+linked list		sort algorithm		-
+longest path problem		search problem		-
+longest path problem		shortest path		-
+longest path problem		shortest path problem		-
+memory footprint		pattern matching		-
+memory footprint		suffix tree		-
+merge sort		minimum spanning tree		-
+merge sort		priority queue		1-
+merge sort		random permutation		-
+merge sort		random variable		-
+merge sort		randomized algorithm		-
+merge sort		search algorithm		-
+merge sort		search tree		-
+merge sort		select algorithm		-
+merge sort		selection sort		-
+merge sort		shortest path		-
+merge sort		sort algorithm		-
+merge sort		spanning tree		-
+minimum spanning tree		nearest neighbor		-
+minimum spanning tree		priority queue		-
+minimum spanning tree		randomized algorithm		-
+minimum spanning tree		search problem		-
+minimum spanning tree		search tree		-
+minimum spanning tree		shortest path		-
+minimum spanning tree		shortest path problem		-
+minimum spanning tree		sort algorithm		-
+minimum spanning tree		spanning tree		1-
+minimum spanning tree		triangle inequality		-
+nearest neighbor		randomized algorithm		-
+nearest neighbor		search problem		-
+nearest neighbor		search tree		-
+nearest neighbor		shortest path		-
+nearest neighbor		sort algorithm		-
+nearest neighbor		spanning tree		-
+pattern matching		suffix tree		-1
+priority queue		search problem		-
+priority queue		search tree		-
+priority queue		select algorithm		-
+priority queue		selection sort		-
+priority queue		shortest path		-
+priority queue		sort algorithm		1-
+priority queue		spanning tree		-
+priority queue		sweep line algorithm		-
+random permutation		sort algorithm		-1
+random variable		randomized algorithm		-
+random variable		select algorithm		-
+random variable		sort algorithm		-
+randomized algorithm		search tree		-
+randomized algorithm		select algorithm		-
+randomized algorithm		shortest path		-
+randomized algorithm		sort algorithm		-
+randomized algorithm		spanning tree		-
+search algorithm		search problem		1-
+search algorithm		search tree		-
+search algorithm		shortest path		-
+search algorithm		sort algorithm		-
+search algorithm		triangle inequality		-
+search problem		search tree		-1
+search problem		shortest path		-
+search problem		shortest path problem		-
+search problem		sort algorithm		-
+search problem		spanning tree		-
+search problem		sweep line algorithm		-
+search tree		select algorithm		-
+search tree		selection sort		-
+search tree		shortest path		-
+search tree		sort algorithm		-
+search tree		spanning tree		-
+search tree		sweep line algorithm		-
+select algorithm		selection sort		-1
+select algorithm		shortest path		-
+select algorithm		sort algorithm		1-
+selection sort		shortest path		-
+selection sort		sort algorithm		1-
+shortest path		shortest path problem		-1
+shortest path		sort algorithm		-
+shortest path		spanning tree		-
+shortest path		triangle inequality		-
+shortest path problem		spanning tree		-
+sort algorithm		spanning tree		-
+spanning tree		triangle inequality		-

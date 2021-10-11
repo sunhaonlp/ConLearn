@@ -1,0 +1,935 @@
+activation function		feature vector		-
+activation function		gradient descent		-
+activation function		linear regression		-
+activation function		logistic function		1-
+activation function		logistic regression		-
+activation function		loss function		-
+activation function		neural network		1-
+activation function		optimization problem		-
+activation function		partial derivative		-
+activation function		sigmoid function		1-
+activation function		supervised learning		-
+activation function		support vector machine		-
+activation function		test data set		-
+activation function		training data set		-
+anomaly detection		computer vision		-
+anomaly detection		covariance matrix		-
+anomaly detection		data set		1-
+anomaly detection		error analysis		-
+anomaly detection		f1 score		-
+anomaly detection		false negative		-
+anomaly detection		false positives		-
+anomaly detection		feature vector		-
+anomaly detection		gaussian density		-
+anomaly detection		hierarchical clustering		-
+anomaly detection		identity matrics		-
+anomaly detection		learning curve		-
+anomaly detection		linear algebra		-
+anomaly detection		linear regression		-
+anomaly detection		logistic regression		-
+anomaly detection		machine learning		1-
+anomaly detection		maximum likelihood		-
+anomaly detection		neural network		-
+anomaly detection		probability density		-
+anomaly detection		random variable		-
+anomaly detection		recommender system		-
+anomaly detection		standard deviation		-
+anomaly detection		supervised learning		1-
+anomaly detection		symmetric matrix		-
+anomaly detection		test data		-
+anomaly detection		test data set		-
+anomaly detection		training data set		1-
+anomaly detection		unsupervised learning		1-
+bayesian inference		coordinate descent		-
+bayesian inference		data set		1-
+bayesian inference		gibbs sampler		-1
+bayesian inference		gradient descent		-
+bayesian inference		latent dirichlet allocation		-1
+bayesian inference		loss function		-
+bayesian inference		machine learning		1-
+bayesian inference		maximum likelihood		1-
+bayesian inference		mixture model		-
+bayesian inference		nearest neighbor search		-
+bayesian inference		stochastic gradient algorithm		-
+bayesian inference		supervised learning		-
+bayesian inference		unsupervised learning		-
+binary classification		data set		1-
+binary classification		decision tree		-
+binary classification		error analysis		-
+binary classification		false negative		-
+binary classification		false positives		-
+binary classification		greedy algorithm		-
+binary classification		linear classifier		-
+binary classification		linear regression		-
+binary classification		logistic regression		-
+binary classification		loss function		-
+binary classification		machine learning		1-
+binary classification		multi-class classification		-1
+binary classification		neural network		-1
+binary classification		test data set		1-
+binary classification		training data set		1-
+collaborative filtering		computer vision		-
+collaborative filtering		coordinate descent		-
+collaborative filtering		data set		1-
+collaborative filtering		decision boundaries		-
+collaborative filtering		decision tree		-
+collaborative filtering		deep learning		-
+collaborative filtering		document retrieval		-
+collaborative filtering		feature vector		1-
+collaborative filtering		gradient descent		-
+collaborative filtering		inner product		-
+collaborative filtering		latent dirichlet allocation		-
+collaborative filtering		linear algebra		1-
+collaborative filtering		linear classifier		-
+collaborative filtering		linear regression		-
+collaborative filtering		logistic regression		-
+collaborative filtering		loss function		-
+collaborative filtering		machine learning		1-
+collaborative filtering		maximum likelihood		-
+collaborative filtering		neural network		-
+collaborative filtering		optimization problem		-
+collaborative filtering		partial derivative		-
+collaborative filtering		recommender system		1-
+collaborative filtering		sentiment analysis		-
+collaborative filtering		stochastic gradient algorithm		-
+collaborative filtering		support vector machine		-
+collaborative filtering		symmetric matrix		1-
+collaborative filtering		test data set		1-
+collaborative filtering		training data set		1-
+computer vision		coordinate descent		-
+computer vision		data set		1-
+computer vision		decision boundaries		-
+computer vision		decision tree		-
+computer vision		deep learning		-
+computer vision		document retrieval		-
+computer vision		error analysis		-
+computer vision		f1 score		-
+computer vision		face detection		-1
+computer vision		feature extraction		-
+computer vision		feature vector		-
+computer vision		gradient descent		-
+computer vision		image retrieval		-1
+computer vision		kernel function		-
+computer vision		latent dirichlet allocation		-
+computer vision		learning curve		-
+computer vision		linear classifier		-
+computer vision		linear regression		-
+computer vision		logistic regression		-
+computer vision		loss function		-
+computer vision		machine learning		1-
+computer vision		maximum likelihood		-
+computer vision		multi-class classification		-
+computer vision		neural network		-
+computer vision		pedestrian detection		-1
+computer vision		recommender system		-
+computer vision		sentiment analysis		-
+computer vision		sigmoid function		-
+computer vision		stochastic gradient algorithm		-
+computer vision		supervised learning		-
+computer vision		support vector machine		-
+computer vision		test data		-
+computer vision		test data set		-
+computer vision		training data set		-
+computer vision		unsupervised learning		-
+concave function		convex function		-
+conditional probabilities		data set		-
+confusion matrix		data set		1-
+confusion matrix		false negative		1-
+confusion matrix		false positives		1-
+confusion matrix		logistic regression		-
+confusion matrix		sentiment analysis		-
+confusion matrix		test data		-
+confusion matrix		test data set		-
+confusion matrix		training data set		-
+convex function		coordinate descent		-
+convex function		data set		-
+convex function		global optimum		-
+convex function		gradient descent		-1
+convex function		least squares		-
+convex function		likelihood function		-
+convex function		linear algebra		-
+convex function		linear regression		-
+convex function		local optima		-
+convex function		logistic regression		-
+convex function		loss function		-
+convex function		machine learning		-
+convex function		optimization problem		-
+convex function		partial derivative		-
+convex function		polynomial regression		-
+convex function		stochastic gradient algorithm		-1
+convex function		supervised learning		-
+convex function		training data set		-
+coordinate descent		data set		-
+coordinate descent		decision tree		-
+coordinate descent		deep learning		-
+coordinate descent		document retrieval		-
+coordinate descent		feature selection		-
+coordinate descent		gibbs sampler		-
+coordinate descent		global optimum		1-
+coordinate descent		gradient descent		-
+coordinate descent		greedy algorithm		-
+coordinate descent		kernel regression		-
+coordinate descent		latent dirichlet allocation		-
+coordinate descent		least squares		-
+coordinate descent		linear classifier		-
+coordinate descent		linear model		-
+coordinate descent		linear regression		-
+coordinate descent		local optima		1-
+coordinate descent		logistic regression		-
+coordinate descent		loss function		1-
+coordinate descent		machine learning		-
+coordinate descent		maximum likelihood		-
+coordinate descent		mean square error		-
+coordinate descent		model selection		-
+coordinate descent		nearest neighbor search		-
+coordinate descent		optimization problem		1-
+coordinate descent		partial derivative		-
+coordinate descent		recommender system		-
+coordinate descent		sentiment analysis		-
+coordinate descent		stochastic gradient algorithm		-
+coordinate descent		support vector machine		-
+covariance matrix		data set		-
+covariance matrix		feature vector		-
+covariance matrix		gaussian density		-
+covariance matrix		identity matrics		1-
+covariance matrix		linear algebra		-
+covariance matrix		maximum likelihood		-
+covariance matrix		mixture model		-
+covariance matrix		probability density		1-
+covariance matrix		random variable		1-
+covariance matrix		standard deviation		1-
+covariance matrix		supervised learning		-
+covariance matrix		symmetric matrix		1-
+covariance matrix		test data set		-
+covariance matrix		training data set		-
+data set		decision boundaries		-1
+data set		decision tree		-1
+data set		deep learning		-1
+data set		design matrix		-1
+data set		document retrieval		-1
+data set		error analysis		-
+data set		f1 score		-
+data set		face detection		-1
+data set		false negative		-
+data set		false positives		-
+data set		feature extraction		-1
+data set		feature selection		-
+data set		feature vector		-
+data set		gaussian density		-
+data set		generalization error		-
+data set		gibbs sampler		-1
+data set		global optimum		-
+data set		gradient descent		-
+data set		greedy algorithm		-
+data set		hierarchical clustering		-
+data set		identity matrics		-
+data set		image retrieval		-1
+data set		inner product		-
+data set		kernel regression		-
+data set		latent dirichlet allocation		-1
+data set		learning curve		-
+data set		least squares		-
+data set		likelihood function		-
+data set		linear algebra		-
+data set		linear classifier		-1
+data set		linear model		-
+data set		linear regression		-1
+data set		local optima		-
+data set		logistic regression		-1
+data set		loss function		-
+data set		machine learning		-1
+data set		maximum likelihood		-
+data set		mean square error		-
+data set		mixture model		-1
+data set		model selection		-1
+data set		multi-class classification		-1
+data set		nearest neighbor search		-
+data set		neural network		-1
+data set		optimization problem		-
+data set		partial derivative		-
+data set		polynomial regression		-
+data set		prior probability		-
+data set		probability density		-
+data set		random variable		-
+data set		recommender system		-1
+data set		sentiment analysis		-1
+data set		sigmoid function		-
+data set		standard deviation		-
+data set		stochastic gradient algorithm		-
+data set		supervised learning		-1
+data set		support vector machine		-1
+data set		symmetric matrix		-
+data set		test data		-
+data set		test data set		-1
+data set		training data set		-1
+data set		unsupervised learning		-1
+decision boundaries		decision tree		-
+decision boundaries		deep learning		-
+decision boundaries		document retrieval		-
+decision boundaries		error analysis		-
+decision boundaries		false negative		-
+decision boundaries		false positives		-
+decision boundaries		feature extraction		-
+decision boundaries		feature vector		1-
+decision boundaries		gradient descent		-
+decision boundaries		inner product		-
+decision boundaries		kernel function		-
+decision boundaries		linear algebra		-
+decision boundaries		linear classifier		-
+decision boundaries		linear model		-
+decision boundaries		linear regression		-
+decision boundaries		local optima		-
+decision boundaries		logistic function		-
+decision boundaries		logistic regression		-
+decision boundaries		loss function		-
+decision boundaries		machine learning		1-
+decision boundaries		maximum likelihood		-
+decision boundaries		model selection		-
+decision boundaries		multi-class classification		-
+decision boundaries		nearest neighbor search		-
+decision boundaries		neural network		-
+decision boundaries		optimization problem		-
+decision boundaries		partial derivative		-
+decision boundaries		polynomial regression		-
+decision boundaries		sentiment analysis		-
+decision boundaries		sigmoid function		-
+decision boundaries		supervised learning		1-
+decision boundaries		support vector machine		-1
+decision boundaries		test data		-
+decision boundaries		training data set		-
+decision boundaries		unsupervised learning		-
+decision tree		deep learning		-
+decision tree		early stopping		-
+decision tree		face detection		-
+decision tree		feature selection		-
+decision tree		gradient descent		-
+decision tree		greedy algorithm		-
+decision tree		latent dirichlet allocation		-
+decision tree		learning curve		-
+decision tree		linear classifier		-
+decision tree		linear regression		-
+decision tree		logistic regression		-
+decision tree		loss function		-
+decision tree		machine learning		1-
+decision tree		maximum likelihood		-
+decision tree		multi-class classification		-
+decision tree		recommender system		-
+decision tree		sentiment analysis		-
+decision tree		stochastic gradient algorithm		-
+decision tree		support vector machine		-
+decision tree		test data		1-
+decision tree		test data set		-
+deep learning		document retrieval		-
+deep learning		feature extraction		1-
+deep learning		gradient descent		-
+deep learning		image retrieval		-
+deep learning		latent dirichlet allocation		-
+deep learning		linear classifier		1-
+deep learning		linear regression		-
+deep learning		logistic regression		-
+deep learning		loss function		-
+deep learning		machine learning		1-
+deep learning		maximum likelihood		-
+deep learning		neural network		1-
+deep learning		partial derivative		1-
+deep learning		recommender system		-
+deep learning		sentiment analysis		-
+deep learning		stochastic gradient algorithm		-
+deep learning		support vector machine		-
+deep learning		test data		-
+deep learning		test data set		-
+deep learning		training data set		1-
+design matrix		feature vector		1-
+design matrix		gradient descent		-
+design matrix		linear algebra		-
+design matrix		linear regression		-
+design matrix		logistic regression		-
+design matrix		loss function		-
+design matrix		partial derivative		-
+design matrix		training data set		1-
+document retrieval		gradient descent		-
+document retrieval		inner product		-
+document retrieval		latent dirichlet allocation		-
+document retrieval		linear classifier		-
+document retrieval		machine learning		1-
+document retrieval		mixture model		-
+document retrieval		nearest neighbor search		-
+document retrieval		neural network		-
+document retrieval		recommender system		-
+document retrieval		sentiment analysis		-
+document retrieval		supervised learning		-
+document retrieval		unsupervised learning		-
+early stopping		machine learning		1-
+early stopping		test data set		-
+error analysis		f1 score		-
+error analysis		false negative		-1
+error analysis		false positives		-1
+error analysis		feature vector		-
+error analysis		gaussian density		-
+error analysis		inner product		-
+error analysis		kernel function		-
+error analysis		learning curve		-1
+error analysis		linear classifier		-
+error analysis		linear regression		-
+error analysis		local optima		-
+error analysis		logistic regression		-
+error analysis		loss function		-
+error analysis		machine learning		-
+error analysis		multi-class classification		-
+error analysis		neural network		-
+error analysis		optimization problem		-
+error analysis		recommender system		-
+error analysis		supervised learning		-
+error analysis		support vector machine		-
+error analysis		test data set		1-
+error analysis		training data set		1-
+error analysis		unsupervised learning		-
+f1 score		false negative		-
+f1 score		false positives		-
+f1 score		learning curve		-
+f1 score		linear regression		-
+f1 score		logistic regression		-
+f1 score		machine learning		-
+f1 score		neural network		-
+f1 score		recommender system		-
+f1 score		supervised learning		-
+f1 score		test data		1-
+f1 score		test data set		1-
+f1 score		training data set		1-
+f1 score		unsupervised learning		-
+face detection		logistic regression		-
+face detection		loss function		-
+face detection		machine learning		-
+face detection		test data		-
+face detection		test data set		-
+false negative		false positives		-
+false negative		machine learning		1-
+false negative		supervised learning		-
+false negative		test data		1-
+false negative		test data set		1-
+false negative		training data set		-
+false negative		unsupervised learning		-
+false positives		machine learning		-
+false positives		supervised learning		-
+false positives		test data		1-
+false positives		test data set		1-
+false positives		training data set		-
+false positives		unsupervised learning		-
+feature extraction		gradient descent		-
+feature extraction		image retrieval		-1
+feature extraction		likelihood function		-
+feature extraction		linear classifier		-
+feature extraction		linear model		-
+feature extraction		logistic regression		-
+feature extraction		machine learning		1-
+feature extraction		neural network		-1
+feature extraction		polynomial regression		-
+feature extraction		sentiment analysis		-1
+feature extraction		training data set		-
+feature selection		feature vector		1-
+feature selection		gradient descent		-
+feature selection		greedy algorithm		-
+feature selection		kernel regression		-
+feature selection		least squares		-
+feature selection		linear model		-
+feature selection		linear regression		-
+feature selection		loss function		-
+feature selection		machine learning		1-
+feature selection		maximum likelihood		-
+feature selection		model selection		-1
+feature selection		optimization problem		-
+feature selection		test data		1-
+feature selection		test data set		1-
+feature vector		gaussian density		-
+feature vector		gradient descent		-1
+feature vector		inner product		-
+feature vector		kernel function		-1
+feature vector		least squares		-
+feature vector		linear algebra		-
+feature vector		linear classifier		-1
+feature vector		linear regression		-1
+feature vector		local optima		-
+feature vector		logistic function		-
+feature vector		logistic regression		-1
+feature vector		loss function		-
+feature vector		machine learning		1-
+feature vector		multi-class classification		-1
+feature vector		nearest neighbor search		-
+feature vector		neural network		-1
+feature vector		optimization problem		-
+feature vector		partial derivative		-
+feature vector		recommender system		-
+feature vector		sigmoid function		-
+feature vector		standard deviation		-
+feature vector		supervised learning		1-
+feature vector		support vector machine		-1
+feature vector		test data		-
+feature vector		test data set		-
+feature vector		training data set		-
+feature vector		unsupervised learning		-
+gaussian density		gibbs sampler		-1
+gaussian density		identity matrics		1-
+gaussian density		latent dirichlet allocation		-
+gaussian density		linear algebra		-
+gaussian density		machine learning		-
+gaussian density		maximum likelihood		-
+gaussian density		mixture model		-
+gaussian density		prior probability		-
+gaussian density		probability density		1-
+gaussian density		random numbers		-
+gaussian density		random variable		-
+gaussian density		standard deviation		1-
+gaussian density		supervised learning		-
+gaussian density		symmetric matrix		1-
+gaussian density		test data set		-
+gaussian density		training data set		-
+generalization error		gradient descent		-
+generalization error		identity matrics		-
+generalization error		loss function		1-
+generalization error		machine learning		1-
+generalization error		mean square error		-
+generalization error		model selection		-1
+generalization error		polynomial regression		-
+generalization error		random variable		-
+generalization error		test data		1-
+generalization error		test data set		1-
+generalization error		training data set		1-
+gibbs sampler		gradient descent		-
+gibbs sampler		latent dirichlet allocation		-
+gibbs sampler		loss function		-
+gibbs sampler		machine learning		-
+gibbs sampler		maximum likelihood		1-
+gibbs sampler		mixture model		-
+gibbs sampler		nearest neighbor search		-
+gibbs sampler		prior probability		1-
+gibbs sampler		stochastic gradient algorithm		-
+gibbs sampler		supervised learning		-
+gibbs sampler		unsupervised learning		-
+global optimum		gradient descent		-1
+global optimum		linear algebra		-
+global optimum		linear regression		-
+global optimum		local minimum		-
+global optimum		local optima		-
+global optimum		logistic regression		-
+global optimum		loss function		-
+global optimum		machine learning		-
+global optimum		multi-class classification		-
+global optimum		neural network		-
+global optimum		partial derivative		-
+global optimum		training data set		-
+gradient descent		identity matrics		-
+gradient descent		inner product		-
+gradient descent		kernel regression		-
+gradient descent		latent dirichlet allocation		-
+gradient descent		learning curve		-
+gradient descent		least squares		-
+gradient descent		likelihood function		-
+gradient descent		linear algebra		1-
+gradient descent		linear classifier		-
+gradient descent		linear model		-
+gradient descent		linear regression		-
+gradient descent		local minimum		1-
+gradient descent		local optima		1-
+gradient descent		logistic regression		-1
+gradient descent		loss function		-
+gradient descent		machine learning		1-
+gradient descent		matrix multiplication		1-
+gradient descent		maximum likelihood		-
+gradient descent		mean square error		-
+gradient descent		model selection		-
+gradient descent		multi-class classification		-
+gradient descent		neural network		-1
+gradient descent		optimization problem		1-
+gradient descent		partial derivative		1-
+gradient descent		polynomial regression		-
+gradient descent		recommender system		-
+gradient descent		sentiment analysis		-
+gradient descent		sigmoid function		-
+gradient descent		standard deviation		-
+gradient descent		stochastic gradient algorithm		-1
+gradient descent		supervised learning		1-
+gradient descent		support vector machine		-
+gradient descent		test data		-
+gradient descent		test data set		-
+gradient descent		training data set		-
+greedy algorithm		linear classifier		-
+greedy algorithm		logistic regression		-
+greedy algorithm		machine learning		-
+greedy algorithm		test data		-
+hierarchical clustering		mixture model		-
+identity matrics		least squares		-
+identity matrics		linear algebra		1-
+identity matrics		linear regression		-
+identity matrics		loss function		-
+identity matrics		machine learning		-
+identity matrics		matrix multiplication		-1
+identity matrics		mean square error		-1
+identity matrics		random numbers		-
+identity matrics		random variable		-
+identity matrics		standard deviation		-
+identity matrics		test data		-
+identity matrics		test data set		-
+identity matrics		training data set		-
+image retrieval		logistic regression		-
+image retrieval		machine learning		1-
+image retrieval		neural network		-
+image retrieval		training data set		-
+inner product		kernel function		-1
+inner product		least squares		-1
+inner product		linear algebra		1-
+inner product		linear classifier		-
+inner product		linear regression		-1
+inner product		local optima		-
+inner product		logistic regression		-1
+inner product		loss function		-
+inner product		machine learning		-
+inner product		multi-class classification		-
+inner product		nearest neighbor search		-
+inner product		neural network		-1
+inner product		optimization problem		-1
+inner product		partial derivative		-
+inner product		recommender system		-
+inner product		support vector machine		-1
+inner product		training data set		-
+kernel function		linear classifier		-
+kernel function		local optima		-
+kernel function		logistic regression		-
+kernel function		loss function		-
+kernel function		machine learning		1-
+kernel function		multi-class classification		-
+kernel function		neural network		-
+kernel function		optimization problem		-
+kernel function		support vector machine		1-
+kernel function		training data set		-
+kernel regression		least squares		-
+kernel regression		linear model		-
+kernel regression		linear regression		1-
+kernel regression		loss function		-
+kernel regression		machine learning		1-
+kernel regression		maximum likelihood		-
+kernel regression		mean square error		-
+kernel regression		model selection		-
+kernel regression		optimization problem		1-
+kernel regression		training data set		1-
+latent dirichlet allocation		linear algebra		-
+latent dirichlet allocation		linear classifier		-
+latent dirichlet allocation		linear regression		-
+latent dirichlet allocation		logistic regression		-
+latent dirichlet allocation		loss function		1-
+latent dirichlet allocation		machine learning		1-
+latent dirichlet allocation		maximum likelihood		-
+latent dirichlet allocation		mixture model		-
+latent dirichlet allocation		multi-class classification		-
+latent dirichlet allocation		nearest neighbor search		-
+latent dirichlet allocation		prior probability		1-
+latent dirichlet allocation		recommender system		-
+latent dirichlet allocation		sentiment analysis		-
+latent dirichlet allocation		stochastic gradient algorithm		-
+latent dirichlet allocation		supervised learning		-
+latent dirichlet allocation		support vector machine		-
+latent dirichlet allocation		unsupervised learning		-
+learning curve		linear regression		-
+learning curve		logistic regression		-
+learning curve		loss function		-
+learning curve		machine learning		1-
+learning curve		model selection		-
+learning curve		neural network		-
+learning curve		recommender system		-
+learning curve		sentiment analysis		-
+learning curve		stochastic gradient algorithm		-
+learning curve		supervised learning		-
+learning curve		test data set		1-
+learning curve		training data set		1-
+learning curve		unsupervised learning		-
+least squares		linear regression		-
+least squares		loss function		-
+least squares		machine learning		-
+least squares		mean square error		-1
+least squares		model selection		-
+least squares		optimization problem		-
+least squares		partial derivative		-
+least squares		polynomial regression		-
+least squares		recommender system		-
+least squares		training data set		-
+likelihood function		logistic regression		-
+likelihood function		machine learning		-
+likelihood function		maximum likelihood		-1
+likelihood function		neural network		-
+likelihood function		partial derivative		-
+likelihood function		training data set		-
+linear algebra		linear classifier		-
+linear algebra		linear regression		-1
+linear algebra		local optima		-
+linear algebra		logistic regression		-1
+linear algebra		loss function		-
+linear algebra		machine learning		-
+linear algebra		matrix multiplication		-1
+linear algebra		maximum likelihood		-
+linear algebra		multi-class classification		-1
+linear algebra		optimization problem		-
+linear algebra		partial derivative		-1
+linear algebra		probability density		-
+linear algebra		standard deviation		-
+linear algebra		stochastic gradient algorithm		-1
+linear algebra		supervised learning		-
+linear algebra		support vector machine		-1
+linear algebra		symmetric matrix		-1
+linear algebra		test data set		-
+linear algebra		training data set		-
+linear algebra		unsupervised learning		-
+linear classifier		linear model		1-
+linear classifier		linear regression		-
+linear classifier		local optima		-
+linear classifier		logistic regression		-1
+linear classifier		loss function		-
+linear classifier		machine learning		1-
+linear classifier		maximum likelihood		-
+linear classifier		multi-class classification		-1
+linear classifier		neural network		-1
+linear classifier		optimization problem		-
+linear classifier		partial derivative		-
+linear classifier		polynomial regression		-
+linear classifier		recommender system		-
+linear classifier		sentiment analysis		-1
+linear classifier		sigmoid function		-
+linear classifier		stochastic gradient algorithm		-
+linear classifier		support vector machine		-1
+linear classifier		training data set		-
+linear model		linear regression		-1
+linear model		logistic function		-
+linear model		logistic regression		-1
+linear model		loss function		-
+linear model		machine learning		1-
+linear model		maximum likelihood		-
+linear model		mean square error		-
+linear model		model selection		-
+linear model		test data		-
+linear model		training data set		-
+linear regression		local minimum		-
+linear regression		local optima		-
+linear regression		logistic function		-
+linear regression		logistic regression		-
+linear regression		loss function		1-
+linear regression		machine learning		1-
+linear regression		matrix multiplication		-
+linear regression		maximum likelihood		-
+linear regression		mean square error		-
+linear regression		model selection		-
+linear regression		multi-class classification		-
+linear regression		neural network		-1
+linear regression		optimization problem		1-
+linear regression		partial derivative		-
+linear regression		polynomial regression		-1
+linear regression		random numbers		-
+linear regression		recommender system		-
+linear regression		sentiment analysis		-
+linear regression		sigmoid function		-
+linear regression		stochastic gradient algorithm		-
+linear regression		supervised learning		1-
+linear regression		support vector machine		-
+linear regression		test data		1-
+linear regression		test data set		1-
+linear regression		training data set		1-
+linear regression		unsupervised learning		-
+local minimum		local optima		1-
+local minimum		logistic regression		-
+local minimum		loss function		-1
+local minimum		machine learning		-
+local minimum		multi-class classification		-
+local minimum		neural network		-
+local minimum		partial derivative		-1
+local minimum		training data set		-
+local optima		logistic regression		-
+local optima		loss function		-1
+local optima		machine learning		-
+local optima		multi-class classification		-
+local optima		neural network		-
+local optima		optimization problem		-
+local optima		partial derivative		-1
+local optima		supervised learning		-
+local optima		support vector machine		-1
+local optima		training data set		-
+logistic function		logistic regression		-
+logistic function		loss function		1-
+logistic function		neural network		-1
+logistic function		partial derivative		-
+logistic function		sigmoid function		-
+logistic function		training data set		-
+logistic regression		loss function		-
+logistic regression		machine learning		1-
+logistic regression		maximum likelihood		-
+logistic regression		model selection		-
+logistic regression		multi-class classification		-1
+logistic regression		neural network		-1
+logistic regression		optimization problem		1-
+logistic regression		partial derivative		-
+logistic regression		polynomial regression		-
+logistic regression		recommender system		-
+logistic regression		sentiment analysis		-
+logistic regression		sigmoid function		1-
+logistic regression		stochastic gradient algorithm		-
+logistic regression		supervised learning		1-
+logistic regression		support vector machine		-1
+logistic regression		test data		1-
+logistic regression		test data set		1-
+logistic regression		training data set		1-
+logistic regression		unsupervised learning		-
+loss function		machine learning		1-
+loss function		maximum likelihood		-
+loss function		mean square error		-
+loss function		model selection		-
+loss function		multi-class classification		-
+loss function		neural network		-1
+loss function		optimization problem		1-
+loss function		partial derivative		-
+loss function		polynomial regression		-
+loss function		random variable		-
+loss function		recommender system		-
+loss function		sentiment analysis		-
+loss function		sigmoid function		-
+loss function		standard deviation		-
+loss function		stochastic gradient algorithm		-1
+loss function		supervised learning		-
+loss function		support vector machine		-1
+loss function		test data		-
+loss function		test data set		-
+loss function		training data set		-
+machine learning		matrix multiplication		-
+machine learning		maximum likelihood		-
+machine learning		mean square error		-
+machine learning		mixture model		-1
+machine learning		model selection		-
+machine learning		multi-class classification		-1
+machine learning		nearest neighbor search		-1
+machine learning		neural network		-1
+machine learning		optimization problem		-
+machine learning		partial derivative		-
+machine learning		pedestrian detection		-1
+machine learning		polynomial regression		-1
+machine learning		probability density		-
+machine learning		random numbers		-
+machine learning		random variable		-
+machine learning		recommender system		-
+machine learning		sentiment analysis		-1
+machine learning		sigmoid function		-
+machine learning		standard deviation		-
+machine learning		stochastic gradient algorithm		-
+machine learning		supervised learning		-1
+machine learning		support vector machine		-1
+machine learning		test data		-1
+machine learning		test data set		-1
+machine learning		training data set		-1
+machine learning		unsupervised learning		-1
+maximum likelihood		mixture model		-
+maximum likelihood		model selection		-
+maximum likelihood		multi-class classification		-
+maximum likelihood		partial derivative		-
+maximum likelihood		probability density		1-
+maximum likelihood		random variable		1-
+maximum likelihood		recommender system		-
+maximum likelihood		sentiment analysis		-
+maximum likelihood		standard deviation		-
+maximum likelihood		stochastic gradient algorithm		-
+maximum likelihood		test data		-
+maximum likelihood		training data set		-
+mean square error		model selection		-
+mean square error		polynomial regression		-
+mean square error		random variable		-
+mean square error		test data		-
+mean square error		test data set		-
+mean square error		training data set		-
+mixture model		nearest neighbor search		-
+mixture model		prior probability		1-
+mixture model		random variable		1-
+mixture model		standard deviation		-
+mixture model		supervised learning		-
+mixture model		symmetric matrix		-
+mixture model		unsupervised learning		-
+model selection		neural network		-
+model selection		polynomial regression		-
+model selection		sigmoid function		-
+model selection		test data		1-
+model selection		test data set		1-
+model selection		training data set		1-
+multi-class classification		neural network		-1
+multi-class classification		optimization problem		-
+multi-class classification		partial derivative		-
+multi-class classification		support vector machine		-
+multi-class classification		training data set		1-
+nearest neighbor search		supervised learning		-
+nearest neighbor search		unsupervised learning		1-
+neural network		optimization problem		1-
+neural network		partial derivative		1-
+neural network		recommender system		-
+neural network		sentiment analysis		-
+neural network		sigmoid function		1-
+neural network		stochastic gradient algorithm		1-
+neural network		supervised learning		1-
+neural network		support vector machine		-
+neural network		test data		1-
+neural network		test data set		1-
+neural network		training data set		1-
+neural network		unsupervised learning		-
+optimization problem		partial derivative		1-
+optimization problem		recommender system		-
+optimization problem		supervised learning		-
+optimization problem		support vector machine		-1
+optimization problem		test data set		-
+optimization problem		training data set		-
+partial derivative		polynomial regression		-
+partial derivative		recommender system		-
+partial derivative		sigmoid function		-
+partial derivative		stochastic gradient algorithm		-1
+partial derivative		training data set		-
+pedestrian detection		supervised learning		1-
+pedestrian detection		test data set		1-
+pedestrian detection		training data set		1-
+polynomial regression		sigmoid function		-
+polynomial regression		test data		1-
+polynomial regression		test data set		1-
+polynomial regression		training data set		1-
+prior probability		random variable		1-
+probability density		random variable		1-
+probability density		standard deviation		-
+probability density		symmetric matrix		-
+probability density		training data set		-
+random numbers		random variable		-1
+random numbers		standard deviation		-1
+random variable		standard deviation		-1
+random variable		symmetric matrix		-
+random variable		training data set		-
+recommender system		sentiment analysis		-
+recommender system		stochastic gradient algorithm		-
+recommender system		supervised learning		-
+recommender system		support vector machine		-
+recommender system		test data		-
+recommender system		test data set		-
+recommender system		training data set		-
+recommender system		unsupervised learning		-
+sentiment analysis		stochastic gradient algorithm		-
+sentiment analysis		support vector machine		-
+sentiment analysis		test data		1-
+sentiment analysis		test data set		1-
+sentiment analysis		training data set		1-
+sigmoid function		supervised learning		-
+sigmoid function		training data set		-
+standard deviation		supervised learning		-
+standard deviation		test data set		-
+standard deviation		training data set		-
+stochastic gradient algorithm		training data set		-
+supervised learning		support vector machine		-1
+supervised learning		test data		1-
+supervised learning		test data set		1-
+supervised learning		training data set		1-
+supervised learning		unsupervised learning		-
+support vector machine		test data		1-
+support vector machine		test data set		1-
+support vector machine		training data set		1-
+support vector machine		unsupervised learning		-
+symmetric matrix		training data set		-
+test data		test data set		-1
+test data		training data set		-
+test data		unsupervised learning		-
+test data set		training data set		-
+test data set		unsupervised learning		-
+training data set		unsupervised learning		-

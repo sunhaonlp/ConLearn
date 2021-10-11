@@ -1,0 +1,2540 @@
+2d tree		binary search		-
+2d tree		binary search tree		-
+2d tree		binary tree		1-
+2d tree		linked list		1-
+2d tree		nearest neighbor		-
+2d tree		range search		1-
+2d tree		regular binary search		-
+2d tree		search problem		1-
+2d tree		search tree		-
+2d tree		sub tree		-
+a star		acyclic graph		-
+a star		adjacency lists		-
+a star		adjacency matrix		-
+a star		asymptotic analysis		-
+a star		asymptotic notation		-
+a star		backwards search		-
+a star		bidirectional search		-
+a star		big-o notation		-
+a star		binary search		-
+a star		binary search tree		-
+a star		binary tree		-
+a star		breadth first search		1-
+a star		brute force approach		1-
+a star		bubble sort		-
+a star		comparison based algorithm		-
+a star		connected component		-
+a star		connected graph		-
+a star		contraction algorithm		-
+a star		de bruijn graph		-
+a star		depth first search		1-
+a star		deterministic hash function		-
+a star		dijkstra algorithm		-
+a star		directed acyclic graph		-
+a star		directed edge		-
+a star		directed graph		-
+a star		directional search		-
+a star		divide-and-conquer algorithm		-
+a star		dual program		-
+a star		dynamic program		-
+a star		edge weight		-
+a star		ellipsoid algorithm		-
+a star		euclidean distance		-
+a star		generic graph search		-
+a star		graph algorithms		-
+a star		graph search		-
+a star		greedy algorithm		-
+a star		hash tables		-
+a star		increasing order		-
+a star		line segments		-
+a star		linear function		-
+a star		linear inequality		-
+a star		linear probing		-
+a star		linear problem		-
+a star		linear program		-
+a star		linear programming problems		-
+a star		linear time algorithm		-
+a star		linked list		-
+a star		memory footprint		-
+a star		merge sort		-
+a star		minimum spanning tree		-
+a star		o notation		-
+a star		optimal binary search		-
+a star		optimal substructure lemma		-
+a star		polynomial time		-
+a star		priority queue		-
+a star		programming problems		-
+a star		quadratic time algorithm		1-
+a star		quick sort		-
+a star		random contraction algorithm		-
+a star		random hash		-
+a star		random hash function		-
+a star		random variable		-
+a star		randomized algorithm		-
+a star		randomized selection algorithm		-
+a star		recursive algorithm		-
+a star		recursive call		-
+a star		residual graph		-
+a star		reverse search		-
+a star		search algorithm		1-
+a star		search tree		-
+a star		search tree algorithm		-
+a star		search tree problem		-
+a star		select algorithm		-
+a star		selection problem		-
+a star		selection sort		-
+a star		shortest path		1-
+a star		shortest path algorithm		1-
+a star		sort algorithm		-
+a star		sorting problem		-
+a star		spanning tree		-
+a star		spanning tree algorithm		-
+a star		spanning tree problem		-
+a star		sparse graphs		-
+a star		suffix trie		-
+a star		triangle inequality		-
+a star		undirected graph		-
+ackermann function		big-o notation		-
+ackermann function		compression optimization		-
+ackermann function		connected component		-
+ackermann function		deterministic algorithm		-
+ackermann function		dynamic connectivity problem		-
+ackermann function		inverse ackermann function		-1
+ackermann function		linear probing		-
+ackermann function		linear time algorithm		-
+ackermann function		log star function		-
+ackermann function		merge sort		-
+ackermann function		minimum spanning tree		-
+ackermann function		mst algorithm		1-
+ackermann function		mst problem		1-
+ackermann function		mst verification		-
+ackermann function		quick sort		-
+ackermann function		randomized algorithm		-
+ackermann function		recursive algorithm		-
+ackermann function		sort algorithm		-
+ackermann function		sorting problem		-
+ackermann function		spanning tree		-
+ackermann function		spanning tree algorithm		-
+ackermann function		spanning tree problem		-
+ackermann function		union find		-
+acyclic graph		adjacency lists		-1
+acyclic graph		big-o notation		-
+acyclic graph		breadth first search		-1
+acyclic graph		cnf formula		-
+acyclic graph		connected component		-1
+acyclic graph		connected graph		-1
+acyclic graph		depth first search		-1
+acyclic graph		directed acyclic graph		-1
+acyclic graph		directed edge		-
+acyclic graph		directed graph		-
+acyclic graph		generic graph search		-
+acyclic graph		graph algorithms		-1
+acyclic graph		graph search		-1
+acyclic graph		linear time algorithm		-
+acyclic graph		polynomial time		-
+acyclic graph		polynomial time algorithm		-
+acyclic graph		recursive algorithm		-
+acyclic graph		recursive call		-
+acyclic graph		residual graph		-
+acyclic graph		search algorithm		-
+acyclic graph		search problem		-
+acyclic graph		shortest path		-
+acyclic graph		undirected graph		-
+adjacency lists		adjacency matrix		-1
+adjacency lists		big-o notation		-
+adjacency lists		breadth first search		-
+adjacency lists		connected component		-
+adjacency lists		connected graph		-
+adjacency lists		contraction algorithm		-
+adjacency lists		depth first search		-
+adjacency lists		directed acyclic graph		-
+adjacency lists		directed edge		-
+adjacency lists		directed graph		-
+adjacency lists		edge weight		-
+adjacency lists		graph algorithms		1-
+adjacency lists		graph search		-
+adjacency lists		recursive algorithm		-
+adjacency lists		shortest path		-
+adjacency lists		sparse graphs		-
+adjacency lists		undirected graph		1-
+adjacency matrix		big-o notation		-
+adjacency matrix		connected component		-
+adjacency matrix		connected graph		-
+adjacency matrix		contraction algorithm		-
+adjacency matrix		directed edge		-
+adjacency matrix		directed graph		-
+adjacency matrix		edge weight		-
+adjacency matrix		graph algorithms		1-
+adjacency matrix		graph search		-
+adjacency matrix		sparse graphs		-
+adjacency matrix		undirected graph		1-
+approximate pattern matching		exact pattern matching		1-
+approximate pattern matching		pattern matching		1-
+approximate pattern matching		string algorithms		1-
+approximation algorithm		bipartite graph		-
+approximation algorithm		directed graph		-
+approximation algorithm		dynamic program		-
+approximation algorithm		edge weight		-
+approximation algorithm		eulerian cycle		-
+approximation algorithm		hamiltonian cycle		-
+approximation algorithm		minimum spanning tree		-
+approximation algorithm		polynomial time		-
+approximation algorithm		polynomial time algorithm		-
+approximation algorithm		search problem		1-
+approximation algorithm		spanning tree		-
+approximation algorithm		spanning tree problem		-
+approximation algorithm		traveling salesman problem		1-
+approximation algorithm		triangle inequality		-
+approximation algorithm		undirected graph		-
+asymptotic analysis		big-o notation		-1
+asymptotic analysis		bubble sort		-
+asymptotic analysis		connected component		-
+asymptotic analysis		divide-and-conquer algorithm		-
+asymptotic analysis		linear time algorithm		1-
+asymptotic analysis		merge sort		-
+asymptotic analysis		o notation		-1
+asymptotic analysis		quadratic time algorithm		1-
+asymptotic analysis		recursive algorithm		-
+asymptotic analysis		recursive call		-
+asymptotic analysis		selection sort		-
+asymptotic analysis		sort algorithm		-
+asymptotic analysis		sorting problem		-
+asymptotic notation		big-o notation		-1
+asymptotic notation		big omega		-1
+asymptotic notation		binary tree		-
+asymptotic notation		brute force approach		1-
+asymptotic notation		complete binary tree		-
+asymptotic notation		connected graph		-
+asymptotic notation		dynamic program		-
+asymptotic notation		greatest common divisor		-
+asymptotic notation		greedy algorithm		-
+asymptotic notation		knockout tournament		-
+asymptotic notation		linear function		-
+asymptotic notation		minimum spanning tree		-
+asymptotic notation		o notation		-1
+asymptotic notation		polynomial time		-
+asymptotic notation		spanning tree		-
+asymptotic notation		theta notation		-1
+avl trees		balanced binary search		1-
+avl trees		balanced search		1-
+avl trees		balanced search tree		1-
+avl trees		binary search		1-
+avl trees		binary search tree		1-
+avl trees		binary tree		1-
+avl trees		linked list		1-
+avl trees		merge sort		-
+avl trees		red black tree		-1
+avl trees		search problem		1-
+avl trees		search tree		1-
+avl trees		splay trees		-1
+avl trees		sub tree		-
+avl trees		unbalanced tree		-
+backwards search		bidirectional dijkstra algorithm		-
+backwards search		bidirectional search		-1
+backwards search		dijkstra algorithm		-
+backwards search		directional search		-
+backwards search		edge weight		-
+backwards search		priority queue		-
+backwards search		reverse search		-
+backwards search		shortest path		-
+backwards search		shortest path algorithm		-
+balance trees		binary search		-
+balance trees		binary search tree		1-
+balance trees		binary tree		-
+balance trees		left-leaning red-black tree		-
+balance trees		red black tree		-1
+balance trees		regular binary search		-
+balance trees		search tree		-
+balance trees		shortest path		-
+balanced binary search		balanced search		1-
+balanced binary search		balanced search tree		1-
+balanced binary search		big-o notation		-
+balanced binary search		binary code		-
+balanced binary search		binary search		1-
+balanced binary search		binary search tree		1-
+balanced binary search		binary tree		1-
+balanced binary search		brute force approach		-
+balanced binary search		discrete probability		-
+balanced binary search		dynamic program		-
+balanced binary search		dynamic programming paradigm		-
+balanced binary search		greedy algorithm		-
+balanced binary search		hash tables		-
+balanced binary search		increasing order		-
+balanced binary search		linear time algorithm		-
+balanced binary search		linked list		1-
+balanced binary search		minimum spanning tree		-
+balanced binary search		nearest neighbor		-
+balanced binary search		o notation		-
+balanced binary search		optimal binary search		-
+balanced binary search		priority queue		-
+balanced binary search		programming algorithms		-
+balanced binary search		quick sort		-
+balanced binary search		randomized algorithm		-
+balanced binary search		randomized quick sort		-
+balanced binary search		recursive algorithm		-
+balanced binary search		recursive call		-
+balanced binary search		red black tree		-1
+balanced binary search		search tree		1-
+balanced binary search		search tree problem		1-
+balanced binary search		select algorithm		-
+balanced binary search		selection problem		-
+balanced binary search		shortest path		-
+balanced binary search		sort algorithm		1-
+balanced binary search		spanning tree		-
+balanced binary search		splay trees		-1
+balanced binary search		sub tree		-
+balanced binary search		unbalanced tree		-
+balanced binary search		weighted search		-
+balanced search		balanced search tree		-1
+balanced search		binary code		-
+balanced search		binary search		-
+balanced search		binary search tree		-
+balanced search		binary tree		-
+balanced search		dynamic program		-
+balanced search		dynamic programming paradigm		-
+balanced search		greedy algorithm		-
+balanced search		hash tables		-
+balanced search		linear probing		-
+balanced search		linked list		-
+balanced search		optimal binary search		-
+balanced search		programming algorithms		-
+balanced search		quick sort		-
+balanced search		red black tree		-1
+balanced search		search tree		-
+balanced search		search tree problem		1-
+balanced search		selection problem		-
+balanced search		shortest path		-
+balanced search		shortest path algorithm		-
+balanced search		splay trees		-1
+balanced search		sub tree		-
+balanced search		unbalanced tree		-
+balanced search		weighted search		-
+balanced search tree		binary code		-
+balanced search tree		binary search		-
+balanced search tree		binary search tree		1-
+balanced search tree		binary tree		1-
+balanced search tree		dynamic program		-
+balanced search tree		dynamic programming paradigm		-
+balanced search tree		greedy algorithm		-
+balanced search tree		hash tables		-
+balanced search tree		linear probing		-
+balanced search tree		linked list		1-
+balanced search tree		optimal binary search		-
+balanced search tree		programming algorithms		-
+balanced search tree		quick sort		-
+balanced search tree		red black tree		-1
+balanced search tree		search tree		1-
+balanced search tree		search tree problem		1-
+balanced search tree		selection problem		-
+balanced search tree		shortest path		-
+balanced search tree		shortest path algorithm		-
+balanced search tree		splay trees		-1
+balanced search tree		sub tree		-
+balanced search tree		unbalanced tree		-
+balanced search tree		weighted search		-
+bellman-ford algorithm		binary heap		-
+bellman-ford algorithm		breadth first search		1-
+bellman-ford algorithm		directed edge		1-
+bellman-ford algorithm		directed graph		1-
+bellman-ford algorithm		dynamic program		-
+bellman-ford algorithm		dynamic programming paradigm		-
+bellman-ford algorithm		edge weight		1-
+bellman-ford algorithm		graph search		1-
+bellman-ford algorithm		greedy algorithm		-
+bellman-ford algorithm		linear program		-
+bellman-ford algorithm		linear time algorithm		-
+bellman-ford algorithm		programming algorithms		-
+bellman-ford algorithm		search algorithm		1-
+bellman-ford algorithm		shortest path		1-
+bellman-ford algorithm		shortest path algorithm		1-
+bellman-ford algorithm		undirected graph		1-
+bidirectional dijkstra algorithm		bidirectional search		1-
+bidirectional dijkstra algorithm		contraction hierarchies		-
+bidirectional dijkstra algorithm		dijkstra algorithm		1-
+bidirectional dijkstra algorithm		directional search		1-
+bidirectional dijkstra algorithm		priority queue		-
+bidirectional dijkstra algorithm		reverse search		-
+bidirectional dijkstra algorithm		shortest path		1-
+bidirectional search		contraction hierarchies		-
+bidirectional search		dijkstra algorithm		-
+bidirectional search		directed graph		1-
+bidirectional search		directional search		1-
+bidirectional search		edge weight		-
+bidirectional search		hash tables		-
+bidirectional search		linear time algorithm		-
+bidirectional search		priority queue		-
+bidirectional search		reverse search		-
+bidirectional search		shortest path		1-
+bidirectional search		shortest path algorithm		1-
+bidirectional search		undirected graph		-
+big-o notation		big omega		-
+big-o notation		binary code		-
+big-o notation		binary heap		-
+big-o notation		binary max heap		-
+big-o notation		binary search		-1
+big-o notation		binary search tree		-
+big-o notation		binary tree		-
+big-o notation		breadth first search		-1
+big-o notation		brute force approach		-1
+big-o notation		closest pair algorithm		-
+big-o notation		cnf formula		-
+big-o notation		comparison based algorithm		-
+big-o notation		comparison based sort		-
+big-o notation		complete binary tree		-
+big-o notation		compression optimization		-
+big-o notation		connected component		-
+big-o notation		connected graph		-
+big-o notation		contraction algorithm		-
+big-o notation		decomposition principle		-
+big-o notation		depth first search		-1
+big-o notation		deterministic algorithm		-
+big-o notation		deterministic hash function		-
+big-o notation		directed acyclic graph		-
+big-o notation		directed edge		-
+big-o notation		directed graph		-
+big-o notation		discrete probability		-
+big-o notation		dynamic connectivity problem		-
+big-o notation		dynamic program		-
+big-o notation		edge weight		-
+big-o notation		euclidean distance		-
+big-o notation		exhaustive search		-
+big-o notation		generic graph search		-
+big-o notation		geometric series		-
+big-o notation		graph algorithms		-
+big-o notation		graph search		-
+big-o notation		greatest common divisor		-
+big-o notation		greedy algorithm		-
+big-o notation		hash tables		-
+big-o notation		heap sort		-1
+big-o notation		increasing order		-
+big-o notation		inverse ackermann function		-
+big-o notation		iterative algorithm		-
+big-o notation		knockout tournament		-1
+big-o notation		kruskal algorithm		-1
+big-o notation		lazy union approach		-
+big-o notation		line segments		-
+big-o notation		linear function		-
+big-o notation		linear probing		-
+big-o notation		linear search		-
+big-o notation		linear time algorithm		-1
+big-o notation		log star function		-
+big-o notation		memory footprint		-
+big-o notation		merge sort		-1
+big-o notation		minimum dist		-
+big-o notation		minimum spanning tree		-
+big-o notation		mst algorithm		-1
+big-o notation		mst problem		-
+big-o notation		mst verification		-
+big-o notation		naive recursive algorithm		-
+big-o notation		nearest neighbor		-
+big-o notation		network flows		-
+big-o notation		o notation		-
+big-o notation		pattern matching		-
+big-o notation		polynomial hash		-
+big-o notation		polynomial time		-
+big-o notation		priority queue		-
+big-o notation		programming algorithms		-1
+big-o notation		quadratic algorithm		-
+big-o notation		quadratic time algorithm		-1
+big-o notation		quick sort		-1
+big-o notation		random hash		-
+big-o notation		random hash function		-
+big-o notation		random variable		-
+big-o notation		randomized algorithm		-1
+big-o notation		randomized quick sort		-
+big-o notation		randomized selection algorithm		-1
+big-o notation		range search		-
+big-o notation		recurrence tree		-
+big-o notation		recursive algorithm		-
+big-o notation		recursive call		-
+big-o notation		satisfiability problem		-
+big-o notation		search algorithm		-
+big-o notation		search tree		-
+big-o notation		select algorithm		-1
+big-o notation		selection problem		-
+big-o notation		selection sort		-
+big-o notation		shortest path		-
+big-o notation		shortest path algorithm		-
+big-o notation		shortest path problem		-
+big-o notation		smallest greedy		-
+big-o notation		sort algorithm		-1
+big-o notation		sorting problem		-
+big-o notation		spanning tree		-
+big-o notation		spanning tree algorithm		-1
+big-o notation		spanning tree problem		-
+big-o notation		sparse graphs		-
+big-o notation		sub graph		-
+big-o notation		sub tree		-
+big-o notation		suffix tree		-
+big-o notation		suffix trie		-
+big-o notation		theta notation		-
+big-o notation		tilde notation		-
+big-o notation		undirected graph		-
+big-o notation		union approach		-
+big-o notation		union find		-
+big omega		binary search		-
+big omega		brute force approach		-
+big omega		discrete probability		-
+big omega		linear function		-
+big omega		o notation		1-
+big omega		quick sort		-
+big omega		random variable		-
+big omega		randomized algorithm		-
+big omega		randomized quick sort		-
+big omega		recursive call		-
+big omega		sort algorithm		-1
+big omega		theta notation		-
+big omega		tilde notation		-
+binary code		binary search		-
+binary code		binary search tree		-1
+binary code		binary tree		-1
+binary code		complete binary tree		-
+binary code		dynamic program		-
+binary code		dynamic programming paradigm		-
+binary code		greedy algorithm		-
+binary code		greedy heuristic		-
+binary code		hash tables		-
+binary code		optimal binary search		-
+binary code		optimal substructure lemma		-
+binary code		polynomial hash		-
+binary code		random hash		-
+binary code		random hash function		-
+binary code		recursive algorithm		-
+binary code		recursive call		-
+binary code		red black tree		-
+binary code		search tree		-
+binary code		search tree problem		-
+binary code		spanning tree		-
+binary code		sub tree		-
+binary code		unbalanced tree		-
+binary code		weighted search		-
+binary heap		binary max heap		-1
+binary heap		binary search		1-
+binary heap		binary tree		1-
+binary heap		complete binary tree		1-
+binary heap		connected component		-
+binary heap		doubly linked list		1-
+binary heap		edge weight		-
+binary heap		graph search		-
+binary heap		greedy algorithm		-
+binary heap		heap sort		1-
+binary heap		linked list		1-
+binary heap		minimum dist		-
+binary heap		minimum spanning tree		-
+binary heap		priority queue		-1
+binary heap		quick sort		-
+binary heap		selection sort		-
+binary heap		shortest path		-
+binary heap		sort algorithm		-
+binary heap		spanning tree		-
+binary heap		spanning tree problem		-
+binary heap		sub tree		-
+binary max heap		binary tree		1-
+binary max heap		complete binary tree		1-
+binary max heap		heap sort		-1
+binary max heap		priority queue		-1
+binary max heap		quick sort		-
+binary max heap		selection sort		-
+binary max heap		sort algorithm		-
+binary max heap		sub tree		-
+binary search		binary search tree		-1
+binary search		binary tree		-
+binary search		breadth first search		-
+binary search		brute force approach		-
+binary search		child tree		-
+binary search		comparison based sort		1-
+binary search		depth first search		-
+binary search		discrete probability		-
+binary search		doubly linked list		-
+binary search		dynamic program		-
+binary search		dynamic programming paradigm		-
+binary search		exhaustive search		-
+binary search		graph algorithms		-
+binary search		graph search		-
+binary search		greedy algorithm		-
+binary search		hash tables		-
+binary search		heap sort		-
+binary search		increasing order		-
+binary search		intersection search		-
+binary search		interval search		-
+binary search		interval search tree		-
+binary search		iterative algorithm		-
+binary search		left-leaning red-black tree		-
+binary search		line segments		-
+binary search		linear probing		-
+binary search		linear search		-
+binary search		linear time algorithm		-
+binary search		linked list		-
+binary search		merge sort		-
+binary search		minimum spanning tree		-
+binary search		naive recursive algorithm		-
+binary search		nearest neighbor		-
+binary search		o notation		-
+binary search		optimal binary search		-1
+binary search		optimal substructure lemma		-
+binary search		polynomial time		-
+binary search		priority queue		-
+binary search		programming algorithms		-
+binary search		quadratic algorithm		-
+binary search		quadratic time algorithm		-
+binary search		quick sort		-
+binary search		randomized algorithm		-
+binary search		randomized quick sort		-
+binary search		range search		-
+binary search		recurrence tree		-
+binary search		recursive algorithm		-
+binary search		recursive call		-
+binary search		red black tree		-
+binary search		regular binary search		-
+binary search		search algorithm		1-
+binary search		search problem		-
+binary search		search tree		-
+binary search		search tree algorithm		-
+binary search		search tree problem		-
+binary search		select algorithm		-
+binary search		selection problem		-
+binary search		selection sort		-
+binary search		shortest path		-
+binary search		shortest path algorithm		-
+binary search		sort algorithm		-
+binary search		spanning tree		-
+binary search		splay trees		-
+binary search		sub tree		-
+binary search		sweep line algorithm		-
+binary search		theta notation		-
+binary search		tilde notation		-
+binary search		unbalanced tree		-
+binary search		union find		-
+binary search		weighted search		-
+binary search tree		binary tree		1-
+binary search tree		breadth first search		-
+binary search tree		brute force approach		-
+binary search tree		child tree		-
+binary search tree		comparison based sort		1-
+binary search tree		depth first search		-
+binary search tree		discrete probability		-
+binary search tree		doubly linked list		-
+binary search tree		dynamic program		-
+binary search tree		dynamic programming paradigm		-
+binary search tree		exhaustive search		-
+binary search tree		graph algorithms		-
+binary search tree		graph search		-
+binary search tree		greedy algorithm		-
+binary search tree		hash tables		-
+binary search tree		heap sort		-
+binary search tree		increasing order		-
+binary search tree		intersection search		-
+binary search tree		interval search		-
+binary search tree		interval search tree		-
+binary search tree		left-leaning red-black tree		-
+binary search tree		line segments		-
+binary search tree		linear probing		-
+binary search tree		linear time algorithm		-
+binary search tree		linked list		-
+binary search tree		merge sort		-
+binary search tree		minimum spanning tree		-
+binary search tree		nearest neighbor		-
+binary search tree		o notation		-
+binary search tree		optimal binary search		-1
+binary search tree		optimal substructure lemma		-
+binary search tree		polynomial time		-
+binary search tree		priority queue		-
+binary search tree		programming algorithms		-
+binary search tree		quadratic algorithm		-
+binary search tree		quadratic time algorithm		-
+binary search tree		quick sort		-
+binary search tree		randomized algorithm		-
+binary search tree		randomized quick sort		-
+binary search tree		range search		-
+binary search tree		recursive algorithm		-
+binary search tree		recursive call		-
+binary search tree		red black tree		-
+binary search tree		regular binary search		-
+binary search tree		search problem		-
+binary search tree		search tree		1-
+binary search tree		search tree algorithm		1-
+binary search tree		search tree problem		-
+binary search tree		select algorithm		-
+binary search tree		selection problem		-
+binary search tree		selection sort		-
+binary search tree		shortest path		-
+binary search tree		shortest path algorithm		-
+binary search tree		sort algorithm		-
+binary search tree		spanning tree		-
+binary search tree		splay trees		-
+binary search tree		sub tree		-
+binary search tree		sweep line algorithm		-
+binary search tree		unbalanced tree		-
+binary search tree		union find		-
+binary search tree		weighted search		-
+binary tree		breadth first search		-
+binary tree		brute force approach		-
+binary tree		child tree		-
+binary tree		comparison based algorithm		-
+binary tree		complete binary tree		-1
+binary tree		connected graph		-
+binary tree		depth first search		-
+binary tree		directed graph		-
+binary tree		dynamic program		-
+binary tree		dynamic programming paradigm		-
+binary tree		edge weight		-
+binary tree		exhaustive search		-
+binary tree		graph search		-
+binary tree		greedy algorithm		-
+binary tree		greedy heuristic		-
+binary tree		heap sort		-1
+binary tree		intersection search		-
+binary tree		interval search		-
+binary tree		interval search tree		-1
+binary tree		knockout tournament		-
+binary tree		left-leaning red-black tree		-
+binary tree		line segments		-
+binary tree		linear search		-
+binary tree		linked list		-
+binary tree		merge sort		-
+binary tree		minimum spanning tree		-
+binary tree		nearest neighbor		-
+binary tree		optimal binary search		-1
+binary tree		optimal substructure lemma		-
+binary tree		polynomial time		-
+binary tree		priority queue		-
+binary tree		quick sort		-
+binary tree		range search		-
+binary tree		recursive algorithm		-
+binary tree		recursive call		-
+binary tree		red black tree		-1
+binary tree		regular binary search		-
+binary tree		search problem		-
+binary tree		search tree		1-
+binary tree		search tree algorithm		-
+binary tree		search tree problem		-
+binary tree		selection problem		-
+binary tree		selection sort		-
+binary tree		shortest path		-
+binary tree		shortest path algorithm		-
+binary tree		shortest path problem		-
+binary tree		smallest greedy		-
+binary tree		sort algorithm		-
+binary tree		spanning tree		-
+binary tree		splay trees		-1
+binary tree		sub tree		-
+binary tree		sweep line algorithm		-
+binary tree		unbalanced tree		-
+binary tree		weighted search		-
+bipartite graph		bipartite matching		-
+bipartite graph		connected graph		-
+bipartite graph		directed graph		1-
+bipartite graph		network flows		-
+bipartite graph		polynomial time		-
+bipartite matching		network flows		1-
+birthday paradox		hash tables		-1
+birthday paradox		linear probing		-
+birthday paradox		linked list		-
+breadth first search		connected component		-
+breadth first search		connected graph		-
+breadth first search		depth first search		-
+breadth first search		directed acyclic graph		1-
+breadth first search		directed edge		1-
+breadth first search		directed graph		1-
+breadth first search		doubly linked list		-
+breadth first search		dynamic program		-
+breadth first search		edge weight		1-
+breadth first search		edmonds-karp algorithm		-1
+breadth first search		ford-fulkerson algorithm		-1
+breadth first search		generic graph search		1-
+breadth first search		graph algorithms		1-
+breadth first search		graph search		1-
+breadth first search		greedy algorithm		-
+breadth first search		hash tables		-
+breadth first search		linear time algorithm		-
+breadth first search		linked list		-
+breadth first search		minimum dist		-
+breadth first search		minimum spanning tree		-
+breadth first search		mst algorithm		-1
+breadth first search		mst problem		-
+breadth first search		network flows		-
+breadth first search		optimal binary search		-
+breadth first search		optimal substructure lemma		-
+breadth first search		polynomial time		-
+breadth first search		quadratic time algorithm		-
+breadth first search		recursive algorithm		-
+breadth first search		recursive call		-
+breadth first search		residual graph		-
+breadth first search		residual network		-
+breadth first search		search algorithm		1-
+breadth first search		search tree		-
+breadth first search		search tree algorithm		-
+breadth first search		search tree problem		-
+breadth first search		shortest path		-
+breadth first search		shortest path algorithm		-
+breadth first search		shortest path problem		-
+breadth first search		shortest path tree		-
+breadth first search		spanning tree		-
+breadth first search		spanning tree problem		-
+breadth first search		sub graph		-
+breadth first search		undirected graph		1-
+breadth first search		union find		-
+brute force approach		closest pair algorithm		-
+brute force approach		cnf formula		-
+brute force approach		comparison based sort		-
+brute force approach		complete binary tree		-
+brute force approach		connected graph		-
+brute force approach		contraction algorithm		-
+brute force approach		directed graph		-
+brute force approach		discrete probability		-
+brute force approach		divide-and-conquer algorithm		-
+brute force approach		dynamic connectivity problem		-
+brute force approach		dynamic program		-1
+brute force approach		dynamic programming paradigm		-1
+brute force approach		euclidean distance		-
+brute force approach		exact pattern matching		-
+brute force approach		exhaustive search		-
+brute force approach		greedy algorithm		-
+brute force approach		hash tables		-
+brute force approach		heap sort		-
+brute force approach		independence set problem		-
+brute force approach		knockout tournament		-
+brute force approach		knuth-morris-pratt algorithm		-
+brute force approach		line segments		-
+brute force approach		linear search		-
+brute force approach		linear time algorithm		-
+brute force approach		memory footprint		-
+brute force approach		merge sort		-
+brute force approach		minimum cut problem		-
+brute force approach		minimum spanning tree		-
+brute force approach		nearest neighbor		-
+brute force approach		np-complete problem		-
+brute force approach		o notation		-
+brute force approach		optimal binary search		-1
+brute force approach		optimal substructure lemma		-1
+brute force approach		pattern matching		-
+brute force approach		polynomial time		-
+brute force approach		priority queue		-
+brute force approach		programming algorithms		-
+brute force approach		quadratic time algorithm		-
+brute force approach		quick sort		-
+brute force approach		random contraction algorithm		-
+brute force approach		random variable		-
+brute force approach		randomized algorithm		-
+brute force approach		randomized quick sort		-
+brute force approach		recursive algorithm		-
+brute force approach		recursive call		-
+brute force approach		satisfiability problem		-
+brute force approach		search algorithm		-
+brute force approach		search problem		-
+brute force approach		search tree		-
+brute force approach		search tree problem		-
+brute force approach		select algorithm		-
+brute force approach		selection sort		-
+brute force approach		sequence alignment problem		-
+brute force approach		shortest path		-
+brute force approach		shortest path algorithm		-
+brute force approach		sort algorithm		-
+brute force approach		spanning tree		-
+brute force approach		spanning tree algorithm		-
+brute force approach		spanning tree problem		-
+brute force approach		sub graph		-
+brute force approach		suffix tree		-
+brute force approach		suffix trie		-
+brute force approach		theta notation		-
+brute force approach		tilde notation		-
+brute force approach		traveling salesman problem		-1
+brute force approach		undirected graph		-
+brute force approach		union find		-
+brute force approach		weighted search		-
+bubble sort		divide-and-conquer algorithm		-
+bubble sort		greedy algorithm		-
+bubble sort		increasing order		1-
+bubble sort		iterative algorithm		-
+bubble sort		merge sort		-
+bubble sort		quadratic algorithm		1-
+bubble sort		recurrence tree		-
+bubble sort		recursive algorithm		-
+bubble sort		recursive call		-
+bubble sort		selection sort		-
+bubble sort		sort algorithm		1-
+bubble sort		sorting problem		1-
+bucket sort		comparison based sort		-
+bucket sort		deterministic algorithm		1-
+bucket sort		heap sort		-
+bucket sort		quick sort		-
+bucket sort		randomized algorithm		-
+bucket sort		selection problem		-
+bucket sort		sort algorithm		1-
+bucket sort		stable sort		-1
+child tree		search tree		-
+closest pair algorithm		euclidean distance		1-
+closest pair algorithm		linear search		-
+closest pair algorithm		merge sort		-
+closest pair algorithm		quadratic time algorithm		1-
+closest pair algorithm		quick sort		-
+closest pair algorithm		randomized algorithm		1-
+closest pair algorithm		randomized quick sort		-
+closest pair algorithm		recursive algorithm		1-
+closest pair algorithm		recursive call		1-
+closest pair algorithm		sort algorithm		-
+clustering problem		euclidean distance		1-
+clustering problem		greedy algorithm		-
+clustering problem		greedy clustering		-1
+clustering problem		minimum spanning tree		-
+clustering problem		spanning tree		-
+clustering problem		spanning tree algorithm		-
+clustering problem		spanning tree problem		-
+cnf formula		connected component		-
+cnf formula		depth first search		-
+cnf formula		directed acyclic graph		-
+cnf formula		directed edge		-
+cnf formula		exhaustive search		-
+cnf formula		np-complete problem		-
+cnf formula		polynomial time		-
+cnf formula		polynomial time algorithm		-
+cnf formula		recursive call		-
+cnf formula		satisfiability problem		-
+cnf formula		search algorithm		-
+cnf formula		search problem		-
+comparison based algorithm		complete binary tree		-
+comparison based algorithm		heap sort		-1
+comparison based algorithm		merge sort		-1
+comparison based algorithm		priority queue		-
+comparison based algorithm		quick sort		-1
+comparison based algorithm		random variable		-
+comparison based algorithm		randomized quick sort		-1
+comparison based algorithm		recursive algorithm		-
+comparison based algorithm		recursive call		-
+comparison based algorithm		selection sort		-1
+comparison based algorithm		shortest path		-
+comparison based algorithm		sort algorithm		1-
+comparison based algorithm		spanning tree		-
+comparison based sort		deterministic algorithm		-
+comparison based sort		exhaustive search		-
+comparison based sort		heap sort		-1
+comparison based sort		linear time algorithm		-
+comparison based sort		merge sort		-1
+comparison based sort		priority queue		-
+comparison based sort		quadratic time algorithm		-
+comparison based sort		quick sort		-1
+comparison based sort		random variable		-
+comparison based sort		randomized algorithm		-
+comparison based sort		randomized quick sort		-
+comparison based sort		randomized selection algorithm		-
+comparison based sort		recursive call		-
+comparison based sort		search tree		-
+comparison based sort		select algorithm		-1
+comparison based sort		selection problem		-
+comparison based sort		selection sort		-
+comparison based sort		shortest path		-
+comparison based sort		shortest path algorithm		-
+comparison based sort		sort algorithm		1-
+comparison based sort		sorting problem		-
+comparison based sort		stable sort		-
+complete binary tree		connected graph		1-
+complete binary tree		directed graph		-
+complete binary tree		exhaustive search		-
+complete binary tree		graph search		-
+complete binary tree		greedy algorithm		-
+complete binary tree		heap sort		-
+complete binary tree		knockout tournament		-
+complete binary tree		linear search		-
+complete binary tree		minimum spanning tree		-
+complete binary tree		polynomial time		-
+complete binary tree		priority queue		-
+complete binary tree		quick sort		-
+complete binary tree		selection sort		-
+complete binary tree		shortest path		-
+complete binary tree		shortest path algorithm		-
+complete binary tree		shortest path problem		-
+complete binary tree		smallest greedy		-
+complete binary tree		sort algorithm		-
+complete binary tree		spanning tree		-
+complete binary tree		sub tree		-
+compression optimization		inverse ackermann function		-1
+compression optimization		log star function		-
+compression optimization		search tree		-
+compression optimization		union find		-1
+connected component		connected graph		1-
+connected component		contraction algorithm		-1
+connected component		depth first search		-
+connected component		deterministic algorithm		-
+connected component		directed acyclic graph		1-
+connected component		directed edge		1-
+connected component		directed graph		1-
+connected component		double crossing lemma		-
+connected component		doubly linked list		-
+connected component		dynamic connectivity problem		-
+connected component		edge weight		-
+connected component		empty cut lemma		-1
+connected component		generic graph search		-
+connected component		graph algorithms		-
+connected component		graph search		-
+connected component		greedy algorithm		-
+connected component		greedy clustering		-1
+connected component		inverse ackermann function		-1
+connected component		kruskal algorithm		-1
+connected component		lazy union approach		-
+connected component		linear time algorithm		-
+connected component		linked list		-
+connected component		log star function		-
+connected component		merge sort		-
+connected component		minimum spanning tree		-
+connected component		mst algorithm		-
+connected component		mst problem		-
+connected component		mst verification		-
+connected component		o notation		-
+connected component		priority queue		-
+connected component		quadratic algorithm		-
+connected component		quadratic time algorithm		-
+connected component		quick sort		-
+connected component		randomized algorithm		-
+connected component		recursive algorithm		-
+connected component		recursive call		-
+connected component		residual graph		-
+connected component		search algorithm		-
+connected component		search tree		-
+connected component		shortest path		-
+connected component		shortest path algorithm		-
+connected component		shortest path problem		-
+connected component		shortest path tree		-
+connected component		sort algorithm		-
+connected component		sorting problem		-
+connected component		spanning tree		-
+connected component		spanning tree algorithm		-
+connected component		spanning tree problem		-
+connected component		sparse graphs		-
+connected component		sub graph		-
+connected component		undirected graph		-
+connected component		union approach		-
+connected component		union find		-
+connected graph		contraction algorithm		-1
+connected graph		depth first search		-
+connected graph		directed acyclic graph		-
+connected graph		directed edge		-
+connected graph		directed graph		-
+connected graph		double crossing lemma		-
+connected graph		edge weight		1-
+connected graph		empty cut lemma		-1
+connected graph		exhaustive search		-
+connected graph		generic graph search		-
+connected graph		graph algorithms		-
+connected graph		graph search		-
+connected graph		greedy algorithm		-
+connected graph		knockout tournament		-
+connected graph		linear search		-
+connected graph		minimum spanning tree		-
+connected graph		mst algorithm		-
+connected graph		mst problem		-
+connected graph		polynomial time		-
+connected graph		randomized algorithm		-
+connected graph		search algorithm		-
+connected graph		shortest path		-
+connected graph		shortest path algorithm		-
+connected graph		shortest path problem		-
+connected graph		smallest greedy		-
+connected graph		spanning tree		-1
+connected graph		spanning tree algorithm		-
+connected graph		spanning tree problem		-
+connected graph		sparse graphs		-
+connected graph		sub graph		-
+connected graph		undirected graph		1-
+contraction algorithm		directed edge		-
+contraction algorithm		directed graph		-
+contraction algorithm		discrete probability		-
+contraction algorithm		edge weight		-
+contraction algorithm		graph algorithms		-
+contraction algorithm		graph search		-
+contraction algorithm		hash tables		-
+contraction algorithm		image segmentation		-
+contraction algorithm		minimum cut problem		1-
+contraction algorithm		random contraction algorithm		-1
+contraction algorithm		random variable		-
+contraction algorithm		randomized algorithm		1-
+contraction algorithm		sparse graphs		-
+contraction algorithm		undirected graph		1-
+contraction hierarchies		dijkstra algorithm		1-
+contraction hierarchies		directed edge		1-
+contraction hierarchies		directional search		1-
+contraction hierarchies		priority queue		-
+contraction hierarchies		shortest path		1-
+cryptographic hash		exhaustive search		-
+cryptographic hash		hash tables		1-
+cryptographic hash		linear probing		-
+cryptographic hash		linked list		-
+cryptographic hash		merge sort		-
+cryptographic hash		quick sort		-
+cryptographic hash		sort algorithm		-
+cyclic rotations		pattern matching		-
+de bruijn graph		directed edge		1-
+de bruijn graph		directed graph		1-
+de bruijn graph		eulerian cycle		1-
+de bruijn graph		eulerian path		1-
+de bruijn graph		hamiltonian cycle		1-
+decomposition principle		deterministic algorithm		-1
+decomposition principle		discrete probability		-
+decomposition principle		divide-and-conquer algorithm		-1
+decomposition principle		hash tables		-
+decomposition principle		increasing order		-
+decomposition principle		linked list		-
+decomposition principle		merge sort		-
+decomposition principle		quick sort		-
+decomposition principle		random hash		-
+decomposition principle		random hash function		-
+decomposition principle		random variable		-
+decomposition principle		randomized algorithm		-
+decomposition principle		randomized quick sort		-
+decomposition principle		recurrence tree		-
+decomposition principle		recursive call		-
+decomposition principle		sort algorithm		-
+decomposition principle		sorting problem		-
+depth first search		directed acyclic graph		1-
+depth first search		directed edge		1-
+depth first search		directed graph		1-
+depth first search		dynamic program		-
+depth first search		edge weight		1-
+depth first search		edmonds-karp algorithm		-1
+depth first search		ford-fulkerson algorithm		-1
+depth first search		generic graph search		1-
+depth first search		graph algorithms		1-
+depth first search		graph search		1-
+depth first search		greedy algorithm		-
+depth first search		hash tables		-
+depth first search		heap sort		-
+depth first search		linear time algorithm		-
+depth first search		minimum spanning tree		-
+depth first search		mst algorithm		-1
+depth first search		mst problem		-
+depth first search		network flows		-
+depth first search		np-complete problem		-
+depth first search		quadratic time algorithm		-
+depth first search		recursive algorithm		-
+depth first search		recursive call		-
+depth first search		residual graph		-
+depth first search		residual network		-
+depth first search		satisfiability problem		-
+depth first search		search algorithm		1-
+depth first search		search tree		-
+depth first search		shortest path		-
+depth first search		shortest path algorithm		-
+depth first search		shortest path problem		-
+depth first search		spanning tree		-
+depth first search		spanning tree problem		-
+depth first search		sub graph		-
+depth first search		undirected graph		1-
+depth first search		union find		-
+deterministic algorithm		discrete probability		-
+deterministic algorithm		graph algorithms		-
+deterministic algorithm		heap sort		-
+deterministic algorithm		inverse ackermann function		-
+deterministic algorithm		knockout tournament		-
+deterministic algorithm		linear time algorithm		-
+deterministic algorithm		log star function		-
+deterministic algorithm		merge sort		-1
+deterministic algorithm		minimum spanning tree		-
+deterministic algorithm		mst algorithm		-
+deterministic algorithm		mst problem		-
+deterministic algorithm		mst verification		-
+deterministic algorithm		o notation		-
+deterministic algorithm		quick sort		-
+deterministic algorithm		random variable		-
+deterministic algorithm		randomized algorithm		-
+deterministic algorithm		randomized selection algorithm		-
+deterministic algorithm		recurrence tree		-
+deterministic algorithm		recursive algorithm		-
+deterministic algorithm		recursive call		-
+deterministic algorithm		select algorithm		-
+deterministic algorithm		selection problem		-
+deterministic algorithm		sort algorithm		1-
+deterministic algorithm		sorting problem		-
+deterministic algorithm		spanning tree		-
+deterministic algorithm		spanning tree algorithm		-
+deterministic algorithm		spanning tree problem		-
+deterministic algorithm		stable sort		1-
+deterministic algorithm		theta notation		-
+deterministic algorithm		union find		-
+deterministic hash function		hash tables		1-
+deterministic hash function		polynomial hash		-
+deterministic hash function		quick sort		-
+deterministic hash function		random hash		-
+deterministic hash function		random hash function		-
+deterministic hash function		sort algorithm		-
+dijkstra algorithm		directed graph		1-
+dijkstra algorithm		directional search		1-
+dijkstra algorithm		edge weight		1-
+dijkstra algorithm		linear time algorithm		-
+dijkstra algorithm		priority queue		-
+dijkstra algorithm		reverse search		-
+dijkstra algorithm		shortest path		1-
+dijkstra algorithm		undirected graph		1-
+directed acyclic graph		directed edge		1-
+directed acyclic graph		directed graph		1-
+directed acyclic graph		generic graph search		-
+directed acyclic graph		graph algorithms		-1
+directed acyclic graph		graph search		-
+directed acyclic graph		linear time algorithm		-
+directed acyclic graph		polynomial time		-
+directed acyclic graph		polynomial time algorithm		-
+directed acyclic graph		recursive algorithm		-
+directed acyclic graph		recursive call		-
+directed acyclic graph		residual graph		-
+directed acyclic graph		search algorithm		-
+directed acyclic graph		search problem		-
+directed acyclic graph		shortest path		-
+directed acyclic graph		undirected graph		-
+directed edge		directed graph		-1
+directed edge		dynamic program		-
+directed edge		edge weight		-
+directed edge		eulerian path		-
+directed edge		graph algorithms		-
+directed edge		graph search		-
+directed edge		greedy algorithm		-
+directed edge		hamiltonian cycle		-
+directed edge		image segmentation		-
+directed edge		linear time algorithm		-
+directed edge		minimum cut problem		-
+directed edge		np-complete problem		-
+directed edge		programming algorithms		-
+directed edge		recursive algorithm		-
+directed edge		recursive call		-
+directed edge		residual graph		-
+directed edge		satisfiability problem		-
+directed edge		search algorithm		-
+directed edge		shortest path		-
+directed edge		shortest path algorithm		-
+directed edge		shortest path tree		-
+directed edge		sparse graphs		-
+directed edge		undirected graph		-
+directed graph		directional search		-1
+directed graph		discrete probability		-
+directed graph		doubly linked list		-
+directed graph		dynamic program		-
+directed graph		edge weight		1-
+directed graph		eulerian cycle		-1
+directed graph		eulerian path		-1
+directed graph		exhaustive search		-
+directed graph		generic graph search		-
+directed graph		graph algorithms		-1
+directed graph		graph search		-
+directed graph		greedy algorithm		-
+directed graph		hamiltonian cycle		-1
+directed graph		image segmentation		-
+directed graph		knockout tournament		-
+directed graph		linear search		-
+directed graph		linear time algorithm		-
+directed graph		linked list		-
+directed graph		minimum cut problem		-
+directed graph		minimum spanning tree		-
+directed graph		mst algorithm		-
+directed graph		mst problem		-
+directed graph		network flows		-
+directed graph		polynomial time		-
+directed graph		polynomial time algorithm		-
+directed graph		programming algorithms		-
+directed graph		random contraction algorithm		-
+directed graph		random variable		-
+directed graph		randomized algorithm		-
+directed graph		recursive algorithm		-
+directed graph		recursive call		-
+directed graph		residual graph		-
+directed graph		search algorithm		-
+directed graph		search problem		-
+directed graph		search tree		-
+directed graph		shortest path		-
+directed graph		shortest path algorithm		-
+directed graph		shortest path problem		-
+directed graph		shortest path tree		-
+directed graph		smallest greedy		-
+directed graph		spanning tree		-
+directed graph		spanning tree algorithm		-
+directed graph		spanning tree problem		-
+directed graph		sparse graphs		-
+directed graph		sub graph		-
+directed graph		traveling salesman problem		-
+directed graph		triangle inequality		-
+directed graph		undirected graph		-
+directional search		edge weight		-
+directional search		euclidean distance		-
+directional search		hash tables		-
+directional search		linear time algorithm		-
+directional search		priority queue		-
+directional search		reverse search		-
+directional search		search algorithm		1-
+directional search		shortest path		-
+directional search		shortest path algorithm		-
+directional search		triangle inequality		-
+directional search		undirected graph		-
+discrete probability		dynamic program		-
+discrete probability		greedy algorithm		-
+discrete probability		hash tables		-
+discrete probability		minimum spanning tree		-
+discrete probability		nearest neighbor		-
+discrete probability		o notation		-
+discrete probability		programming algorithms		-1
+discrete probability		quick sort		-
+discrete probability		random contraction algorithm		-
+discrete probability		random variable		-
+discrete probability		randomized algorithm		-
+discrete probability		randomized quick sort		-
+discrete probability		recurrence tree		-
+discrete probability		recursive algorithm		-
+discrete probability		recursive call		-
+discrete probability		search tree		-
+discrete probability		shortest path		-
+discrete probability		sort algorithm		-
+discrete probability		spanning tree		-
+discrete probability		undirected graph		-
+divide-and-conquer algorithm		dynamic program		-1
+divide-and-conquer algorithm		greedy algorithm		-
+divide-and-conquer algorithm		greedy heuristic		-
+divide-and-conquer algorithm		increasing order		-
+divide-and-conquer algorithm		linear time algorithm		-
+divide-and-conquer algorithm		merge sort		1-
+divide-and-conquer algorithm		polynomial time		-
+divide-and-conquer algorithm		quick sort		-
+divide-and-conquer algorithm		random variable		-
+divide-and-conquer algorithm		randomized algorithm		-
+divide-and-conquer algorithm		randomized quick sort		-
+divide-and-conquer algorithm		recursive algorithm		-
+divide-and-conquer algorithm		recursive call		-
+divide-and-conquer algorithm		selection sort		1-
+divide-and-conquer algorithm		shortest path		-
+divide-and-conquer algorithm		shortest path algorithm		-
+divide-and-conquer algorithm		sort algorithm		-
+divide-and-conquer algorithm		sorting problem		-
+divide-and-conquer algorithm		sub graph		-
+double crossing lemma		empty cut lemma		-
+double crossing lemma		greedy algorithm		-
+double crossing lemma		minimum spanning tree		-
+double crossing lemma		randomized algorithm		-
+double crossing lemma		spanning tree		-
+double crossing lemma		spanning tree algorithm		-
+doubly linked list		graph search		-
+doubly linked list		hash tables		-
+doubly linked list		linked list		1-
+doubly linked list		nearest neighbor		-
+doubly linked list		priority queue		-
+doubly linked list		range search		-
+doubly linked list		search algorithm		-
+doubly linked list		search problem		-
+doubly linked list		search tree		-
+doubly linked list		shortest path		-
+doubly linked list		undirected graph		-
+dual program		ellipsoid algorithm		-
+dual program		linear function		-
+dual program		linear inequality		-
+dual program		linear problem		-
+dual program		linear program		-
+dual program		linear programming problems		-
+dual program		polynomial time		-
+dual program		programming problems		1-
+dynamic connectivity problem		linear time algorithm		-
+dynamic connectivity problem		minimum spanning tree		-
+dynamic connectivity problem		quadratic algorithm		-
+dynamic connectivity problem		quadratic time algorithm		-
+dynamic connectivity problem		spanning tree		-
+dynamic connectivity problem		spanning tree algorithm		-
+dynamic connectivity problem		union find		-
+dynamic program		dynamic programming matrix		1-
+dynamic program		dynamic programming paradigm		1-
+dynamic program		edge weight		-
+dynamic program		edit distance problem		1-
+dynamic program		fractional knapsack		1-
+dynamic program		generic graph search		-
+dynamic program		graph algorithms		1-
+dynamic program		graph search		1-
+dynamic program		greatest common divisor		-
+dynamic program		greedy algorithm		-
+dynamic program		greedy heuristic		-
+dynamic program		hash tables		-
+dynamic program		independence set problem		1-
+dynamic program		iterative algorithm		1-
+dynamic program		linear program		-
+dynamic program		linear time algorithm		-
+dynamic program		merge sort		-
+dynamic program		minimum spanning tree		-
+dynamic program		nearest neighbor		-
+dynamic program		np-complete problem		-
+dynamic program		o notation		-
+dynamic program		optimal binary search		-
+dynamic program		optimal substructure lemma		-
+dynamic program		polynomial algorithm		1-
+dynamic program		polynomial time		1-
+dynamic program		polynomial time algorithm		1-
+dynamic program		programming algorithms		1-
+dynamic program		quadratic time algorithm		-
+dynamic program		quick sort		-
+dynamic program		randomized algorithm		-
+dynamic program		randomized quick sort		-
+dynamic program		recursive algorithm		-
+dynamic program		recursive call		-
+dynamic program		red black tree		-
+dynamic program		satisfiability problem		-
+dynamic program		search algorithm		-
+dynamic program		search problem		-
+dynamic program		search tree		-
+dynamic program		search tree algorithm		-
+dynamic program		search tree problem		-
+dynamic program		sequence alignment problem		-
+dynamic program		shortest path		-
+dynamic program		shortest path algorithm		-
+dynamic program		shortest path problem		-
+dynamic program		sort algorithm		-
+dynamic program		spanning tree		-
+dynamic program		spanning tree problem		-
+dynamic program		sub graph		-
+dynamic program		traveling salesman problem		1-
+dynamic program		unbalanced tree		-
+dynamic program		undirected graph		-
+dynamic program		weighted search		-
+dynamic programming matrix		edit distance problem		-
+dynamic programming paradigm		greedy algorithm		-
+dynamic programming paradigm		independence set problem		-
+dynamic programming paradigm		linear program		-
+dynamic programming paradigm		linear time algorithm		-
+dynamic programming paradigm		optimal binary search		-
+dynamic programming paradigm		programming algorithms		-
+dynamic programming paradigm		red black tree		-
+dynamic programming paradigm		search tree		-
+dynamic programming paradigm		search tree problem		-
+dynamic programming paradigm		unbalanced tree		-
+dynamic programming paradigm		weighted search		-
+edge weight		euclidean distance		-
+edge weight		eulerian cycle		-
+edge weight		generic graph search		-
+edge weight		graph algorithms		-
+edge weight		graph search		-
+edge weight		hamiltonian cycle		-
+edge weight		image segmentation		-
+edge weight		linear time algorithm		-
+edge weight		minimum cut problem		-1
+edge weight		minimum dist		-1
+edge weight		minimum spanning tree		-1
+edge weight		polynomial time		-
+edge weight		priority queue		-
+edge weight		reverse search		-
+edge weight		search algorithm		-
+edge weight		search tree		-
+edge weight		shortest path		-1
+edge weight		shortest path algorithm		-1
+edge weight		shortest path problem		-1
+edge weight		spanning tree		-
+edge weight		spanning tree problem		-
+edge weight		sparse graphs		-
+edge weight		traveling salesman problem		-1
+edge weight		triangle inequality		-
+edge weight		undirected graph		-
+edmonds-karp algorithm		ford-fulkerson algorithm		1-
+edmonds-karp algorithm		network flows		1-
+edmonds-karp algorithm		residual graph		1-
+edmonds-karp algorithm		residual network		1-
+edmonds-karp algorithm		shortest path		-
+ellipsoid algorithm		linear program		-
+ellipsoid algorithm		np-complete problem		-
+ellipsoid algorithm		polynomial time		-
+ellipsoid algorithm		polynomial time algorithm		-
+empty cut lemma		greedy algorithm		-
+empty cut lemma		minimum spanning tree		-
+empty cut lemma		randomized algorithm		-
+empty cut lemma		spanning tree		-
+empty cut lemma		spanning tree algorithm		-
+euclidean distance		greedy algorithm		-
+euclidean distance		greedy clustering		-
+euclidean distance		linear search		-
+euclidean distance		linear time algorithm		-
+euclidean distance		merge sort		-
+euclidean distance		minimum spanning tree		-1
+euclidean distance		quadratic time algorithm		-
+euclidean distance		recursive algorithm		-
+euclidean distance		recursive call		-
+euclidean distance		search algorithm		-
+euclidean distance		shortest path		-1
+euclidean distance		shortest path algorithm		-1
+euclidean distance		sort algorithm		-
+euclidean distance		spanning tree		-
+euclidean distance		spanning tree algorithm		-
+euclidean distance		spanning tree problem		-
+euclidean distance		triangle inequality		-
+eulerian cycle		eulerian path		1-
+eulerian cycle		hamiltonian cycle		-
+eulerian cycle		minimum spanning tree		-
+eulerian cycle		polynomial time		-
+eulerian cycle		polynomial time algorithm		-
+eulerian cycle		search problem		-
+eulerian cycle		spanning tree		-
+eulerian cycle		traveling salesman problem		-
+eulerian cycle		triangle inequality		-
+eulerian cycle		undirected graph		1-
+eulerian path		hamiltonian cycle		-
+exact pattern matching		knuth-morris-pratt algorithm		-1
+exact pattern matching		pattern matching		1-
+exact pattern matching		string algorithms		1-
+exact pattern matching		suffix tree		-1
+exhaustive search		graph search		-
+exhaustive search		hash tables		-
+exhaustive search		heap sort		-
+exhaustive search		knockout tournament		-
+exhaustive search		linear probing		-
+exhaustive search		linear search		-
+exhaustive search		linked list		-
+exhaustive search		merge sort		-
+exhaustive search		np-complete problem		-
+exhaustive search		polynomial time		-
+exhaustive search		priority queue		-
+exhaustive search		quadratic time algorithm		-
+exhaustive search		quick sort		-
+exhaustive search		random hash		-
+exhaustive search		randomized quick sort		-
+exhaustive search		recursive call		-
+exhaustive search		satisfiability problem		-
+exhaustive search		search algorithm		-
+exhaustive search		search tree		-
+exhaustive search		select algorithm		-
+exhaustive search		selection sort		-
+exhaustive search		shortest path		-
+exhaustive search		shortest path algorithm		-
+exhaustive search		shortest path problem		-
+exhaustive search		smallest greedy		-
+exhaustive search		sort algorithm		-
+ford-fulkerson algorithm		network flows		1-
+ford-fulkerson algorithm		residual graph		1-
+ford-fulkerson algorithm		residual network		1-
+ford-fulkerson algorithm		shortest path		-
+fractional knapsack		greedy algorithm		-1
+fractional knapsack		sort algorithm		-
+generic graph search		graph search		1-
+generic graph search		search algorithm		-
+generic graph search		shortest path		-
+generic graph search		shortest path algorithm		-
+generic graph search		shortest path problem		-
+generic graph search		undirected graph		-
+geometric series		o notation		-
+geometric series		recurrence tree		-
+geometric series		recursive algorithm		-
+geometric series		theta notation		-
+grade algorithm		iterative algorithm		-
+grade algorithm		karatsuba multiplication		-
+grade algorithm		naive recursive algorithm		-
+grade algorithm		recursive algorithm		-
+grade algorithm		recursive call		-
+graham scan		increasing order		-
+graham scan		shortest path		-
+graham scan		sort algorithm		-
+graph algorithms		graph search		1-
+graph algorithms		greedy algorithm		-
+graph algorithms		hash tables		-
+graph algorithms		knockout tournament		-
+graph algorithms		linear program		-
+graph algorithms		linear time algorithm		-
+graph algorithms		merge sort		-
+graph algorithms		minimum spanning tree		-
+graph algorithms		mst algorithm		-1
+graph algorithms		mst problem		1-
+graph algorithms		np-complete problem		-
+graph algorithms		polynomial algorithm		-
+graph algorithms		polynomial time		-
+graph algorithms		polynomial time algorithm		-
+graph algorithms		priority queue		-
+graph algorithms		quick sort		-
+graph algorithms		randomized algorithm		-
+graph algorithms		randomized selection algorithm		-
+graph algorithms		recursive algorithm		-
+graph algorithms		recursive call		-
+graph algorithms		search algorithm		-
+graph algorithms		search problem		-
+graph algorithms		search tree		-1
+graph algorithms		select algorithm		-
+graph algorithms		selection problem		-
+graph algorithms		shortest path		-
+graph algorithms		shortest path algorithm		-1
+graph algorithms		shortest path problem		1-
+graph algorithms		spanning tree		-1
+graph algorithms		spanning tree problem		1-
+graph algorithms		sparse graphs		-
+graph algorithms		sub graph		-
+graph algorithms		undirected graph		-
+graph search		greedy algorithm		-
+graph search		hash tables		-
+graph search		heap sort		-
+graph search		knockout tournament		-
+graph search		linear search		-
+graph search		linear time algorithm		-
+graph search		linked list		-
+graph search		minimum spanning tree		-
+graph search		mst algorithm		-
+graph search		mst problem		-
+graph search		o notation		-
+graph search		priority queue		-
+graph search		programming algorithms		-
+graph search		quadratic time algorithm		-
+graph search		recursive algorithm		-
+graph search		residual graph		-
+graph search		search algorithm		1-
+graph search		search tree		-
+graph search		shortest path		-
+graph search		shortest path algorithm		-
+graph search		shortest path problem		-
+graph search		smallest greedy		-
+graph search		sort algorithm		-
+graph search		spanning tree		-
+graph search		spanning tree problem		-
+graph search		sparse graphs		-
+graph search		sub graph		-
+graph search		undirected graph		1-
+graph search		union find		-
+greatest common divisor		greedy algorithm		-
+greatest common divisor		recursive call		-
+greedy algorithm		greedy clustering		-1
+greedy algorithm		greedy heuristic		-1
+greedy algorithm		hash tables		-
+greedy algorithm		increasing order		-
+greedy algorithm		independence set problem		-
+greedy algorithm		linear time algorithm		-
+greedy algorithm		merge sort		-
+greedy algorithm		minimum spanning tree		-
+greedy algorithm		mst algorithm		-1
+greedy algorithm		mst problem		1-
+greedy algorithm		nearest neighbor		-
+greedy algorithm		o notation		-
+greedy algorithm		optimal binary search		-
+greedy algorithm		optimal substructure lemma		1-
+greedy algorithm		polynomial algorithm		-
+greedy algorithm		polynomial time		-
+greedy algorithm		polynomial time algorithm		-
+greedy algorithm		priority queue		-
+greedy algorithm		programming algorithms		1-
+greedy algorithm		quadratic time algorithm		-
+greedy algorithm		quick sort		-
+greedy algorithm		randomized algorithm		-
+greedy algorithm		randomized quick sort		-
+greedy algorithm		recursive algorithm		-
+greedy algorithm		recursive call		-
+greedy algorithm		red black tree		-
+greedy algorithm		search problem		-
+greedy algorithm		search tree		-
+greedy algorithm		search tree problem		-
+greedy algorithm		shortest path		-
+greedy algorithm		shortest path algorithm		-1
+greedy algorithm		shortest path problem		1-
+greedy algorithm		sort algorithm		-
+greedy algorithm		spanning tree		-
+greedy algorithm		spanning tree algorithm		-1
+greedy algorithm		spanning tree problem		1-
+greedy algorithm		sub graph		-
+greedy algorithm		sub tree		-
+greedy algorithm		unbalanced tree		-
+greedy algorithm		undirected graph		-
+greedy algorithm		weighted search		-
+greedy clustering		minimum spanning tree		-
+greedy clustering		spanning tree		-
+greedy clustering		spanning tree algorithm		-
+greedy clustering		spanning tree problem		-
+greedy heuristic		merge sort		-
+greedy heuristic		quick sort		-
+greedy heuristic		randomized algorithm		-
+greedy heuristic		recursive call		-
+greedy heuristic		shortest path		-
+greedy heuristic		shortest path algorithm		-
+greedy heuristic		sort algorithm		-
+greedy heuristic		spanning tree		-
+greedy heuristic		sub tree		-
+hamiltonian cycle		minimum spanning tree		-
+hamiltonian cycle		polynomial time		-
+hamiltonian cycle		polynomial time algorithm		-
+hamiltonian cycle		search problem		1-
+hamiltonian cycle		spanning tree		-
+hamiltonian cycle		traveling salesman problem		1-
+hamiltonian cycle		triangle inequality		-
+hamiltonian cycle		undirected graph		1-
+hash buckets		random variable		-
+hash tables		heap sort		-
+hash tables		increasing order		-
+hash tables		linear probing		-
+hash tables		linear program		-
+hash tables		linear time algorithm		-
+hash tables		linked list		-
+hash tables		merge sort		-
+hash tables		minimum spanning tree		-
+hash tables		nearest neighbor		-
+hash tables		o notation		-
+hash tables		polynomial hash		-
+hash tables		priority queue		-
+hash tables		programming algorithms		-
+hash tables		quadratic time algorithm		-
+hash tables		quick sort		-
+hash tables		random hash		-1
+hash tables		random hash function		-1
+hash tables		random variable		-
+hash tables		randomized algorithm		-
+hash tables		randomized quick sort		-
+hash tables		range search		-
+hash tables		recursive algorithm		-
+hash tables		recursive call		-
+hash tables		red black tree		-
+hash tables		search algorithm		-
+hash tables		search problem		-
+hash tables		search tree		-
+hash tables		select algorithm		-
+hash tables		selection problem		-
+hash tables		shortest path		-
+hash tables		shortest path algorithm		-
+hash tables		sort algorithm		-
+hash tables		spanning tree		-
+hash tables		sub tree		-
+hash tables		theta notation		-
+hash tables		union find		-
+heap sort		merge sort		-
+heap sort		priority queue		1-
+heap sort		quadratic time algorithm		-
+heap sort		quick sort		-
+heap sort		randomized algorithm		-
+heap sort		randomized quick sort		-
+heap sort		recursive algorithm		-
+heap sort		recursive call		-
+heap sort		search algorithm		-
+heap sort		search tree		-
+heap sort		select algorithm		-
+heap sort		selection problem		-
+heap sort		selection sort		-
+heap sort		shortest path		-
+heap sort		shortest path algorithm		-
+heap sort		sort algorithm		1-
+heap sort		spanning tree		-
+heap sort		stable sort		-
+heap sort		sub tree		-
+image segmentation		linear program		-
+image segmentation		linear programming problems		-
+image segmentation		minimum cut problem		-1
+image segmentation		programming problems		-
+image segmentation		residual network		-
+image segmentation		undirected graph		1-
+increasing order		knockout tournament		-
+increasing order		linked list		-
+increasing order		merge sort		-1
+increasing order		quick sort		-1
+increasing order		random variable		-
+increasing order		randomized quick sort		-1
+increasing order		randomized selection algorithm		-
+increasing order		range search		-
+increasing order		recursive algorithm		-
+increasing order		recursive call		-
+increasing order		red black tree		-
+increasing order		search tree		-
+increasing order		select algorithm		-1
+increasing order		selection problem		-
+increasing order		selection sort		-1
+increasing order		shortest path		-
+increasing order		sort algorithm		-1
+increasing order		sorting problem		-1
+increasing order		sub tree		-
+increasing order		suffix tree		-
+increasing order		theta notation		-
+independence set problem		linear program		-
+independence set problem		np-complete problem		-
+independence set problem		polynomial time		-
+independence set problem		polynomial time algorithm		-
+independence set problem		programming algorithms		-
+independence set problem		satisfiability problem		-
+independence set problem		search problem		1-
+intersection search		interval search		-
+intersection search		interval search tree		-
+intersection search		line segments		-
+intersection search		priority queue		-
+intersection search		quadratic algorithm		-
+intersection search		range search		-
+intersection search		regular binary search		-
+intersection search		search problem		1-
+intersection search		search tree		-
+intersection search		search tree algorithm		-
+intersection search		sub tree		-
+intersection search		sweep line algorithm		-
+interval search		interval search tree		-1
+interval search		priority queue		-
+interval search		quadratic algorithm		-
+interval search		range search		1-
+interval search		regular binary search		-
+interval search		search problem		1-
+interval search		search tree		-
+interval search		search tree algorithm		-
+interval search		sub tree		-
+interval search		sweep line algorithm		-
+interval search tree		priority queue		-
+interval search tree		quadratic algorithm		-
+interval search tree		range search		1-
+interval search tree		regular binary search		-
+interval search tree		search problem		-
+interval search tree		search tree		1-
+interval search tree		search tree algorithm		-
+interval search tree		sub tree		1-
+interval search tree		sweep line algorithm		-
+inverse ackermann function		linear probing		-
+inverse ackermann function		linear time algorithm		-
+inverse ackermann function		log star function		-
+inverse ackermann function		merge sort		-
+inverse ackermann function		minimum spanning tree		-
+inverse ackermann function		mst algorithm		1-
+inverse ackermann function		mst problem		1-
+inverse ackermann function		mst verification		-
+inverse ackermann function		quick sort		-
+inverse ackermann function		randomized algorithm		-
+inverse ackermann function		recursive algorithm		-
+inverse ackermann function		sort algorithm		-
+inverse ackermann function		sorting problem		-
+inverse ackermann function		spanning tree		-
+inverse ackermann function		spanning tree algorithm		-
+inverse ackermann function		spanning tree problem		-
+inverse ackermann function		union find		-
+iterative algorithm		merge sort		-
+iterative algorithm		naive recursive algorithm		-
+iterative algorithm		polynomial time		-
+iterative algorithm		recurrence tree		-
+iterative algorithm		recursive algorithm		-
+iterative algorithm		recursive call		-
+iterative algorithm		search algorithm		-
+iterative algorithm		selection sort		-
+iterative algorithm		sort algorithm		-
+karatsuba multiplication		recursive algorithm		1-
+karatsuba multiplication		recursive call		1-
+knockout tournament		linear search		-
+knockout tournament		linear time algorithm		-
+knockout tournament		merge sort		-
+knockout tournament		minimum spanning tree		-
+knockout tournament		polynomial time		-
+knockout tournament		quick sort		-
+knockout tournament		randomized algorithm		-
+knockout tournament		randomized quick sort		-
+knockout tournament		randomized selection algorithm		1-
+knockout tournament		recursive call		-
+knockout tournament		select algorithm		-1
+knockout tournament		selection problem		1-
+knockout tournament		shortest path		-
+knockout tournament		shortest path algorithm		-
+knockout tournament		shortest path problem		-
+knockout tournament		smallest greedy		-
+knockout tournament		spanning tree		-
+knockout tournament		theta notation		-
+knuth-morris-pratt algorithm		pattern matching		1-
+knuth-morris-pratt algorithm		suffix tree		-
+kruskal algorithm		minimum spanning tree		1-
+kruskal algorithm		spanning tree		1-
+lazy union approach		minimum spanning tree		-
+lazy union approach		spanning tree		-
+lazy union approach		spanning tree algorithm		-
+lazy union approach		sub tree		-
+lazy union approach		union approach		1-
+lazy union approach		union find		1-
+left-leaning red-black tree		red black tree		1-
+left-leaning red-black tree		regular binary search		1-
+left-leaning red-black tree		search tree		1-
+left-leaning red-black tree		shortest path		-
+line segments		linear function		-
+line segments		linear inequality		-
+line segments		linear program		-
+line segments		merge sort		-
+line segments		priority queue		-
+line segments		range search		-1
+line segments		recursive algorithm		-
+line segments		recursive call		-
+line segments		search tree		-
+line segments		sort algorithm		-
+line segments		sweep line algorithm		-1
+linear function		linear inequality		-1
+linear function		linear problem		1-
+linear function		linear program		-1
+linear function		linear programming problems		1-
+linear function		o notation		-
+linear function		programming problems		1-
+linear function		theta notation		-
+linear inequality		linear problem		-
+linear inequality		linear program		-
+linear inequality		linear programming problems		-
+linear inequality		programming problems		-
+linear probing		linear program		-
+linear probing		linked list		-
+linear probing		merge sort		-
+linear probing		quick sort		-
+linear probing		random variable		1-
+linear probing		red black tree		-
+linear probing		search tree		-
+linear probing		select algorithm		-
+linear probing		sort algorithm		-
+linear probing		union find		-
+linear problem		linear program		-1
+linear problem		linear programming problems		-
+linear problem		programming problems		-
+linear program		linear programming problems		1-
+linear program		linear time algorithm		-
+linear program		linked list		-
+linear program		minimum cut problem		-
+linear program		minimum cut problem		-
+linear program		np-complete problem		-
+linear program		polynomial algorithm		-
+linear program		polynomial time		-
+linear program		polynomial time algorithm		-
+linear program		programming algorithms		1-
+linear program		programming problems		1-
+linear program		random variable		-
+linear program		residual network		-
+linear program		satisfiability problem		-
+linear program		search problem		-
+linear program		select algorithm		-
+linear program		shortest path		-
+linear program		shortest path problem		-
+linear program		traveling salesman problem		-
+linear programming problems		minimum cut problem		-
+linear programming problems		programming problems		1-
+linear programming problems		residual network		-
+linear search		linked list		-
+linear search		merge sort		-
+linear search		quadratic time algorithm		-
+linear search		recursive algorithm		-
+linear search		recursive call		-
+linear search		search algorithm		1-
+linear search		shortest path		-
+linear search		shortest path algorithm		-
+linear search		shortest path problem		-
+linear search		smallest greedy		-
+linear search		sort algorithm		-
+linear search		theta notation		-
+linear time algorithm		log star function		-
+linear time algorithm		memory footprint		-
+linear time algorithm		merge sort		-
+linear time algorithm		minimum spanning tree		-
+linear time algorithm		mst algorithm		-
+linear time algorithm		mst problem		-
+linear time algorithm		mst verification		-
+linear time algorithm		o notation		-
+linear time algorithm		pattern matching		-
+linear time algorithm		priority queue		-
+linear time algorithm		programming algorithms		-
+linear time algorithm		quadratic time algorithm		-
+linear time algorithm		quick sort		-
+linear time algorithm		random variable		-
+linear time algorithm		randomized algorithm		-
+linear time algorithm		randomized selection algorithm		-
+linear time algorithm		recursive algorithm		-
+linear time algorithm		recursive call		-
+linear time algorithm		residual graph		-
+linear time algorithm		satisfiability problem		-
+linear time algorithm		search algorithm		-
+linear time algorithm		search tree		-
+linear time algorithm		select algorithm		-
+linear time algorithm		selection problem		-
+linear time algorithm		shortest path		-
+linear time algorithm		shortest path algorithm		-
+linear time algorithm		sort algorithm		-
+linear time algorithm		sorting problem		-
+linear time algorithm		spanning tree		-
+linear time algorithm		spanning tree algorithm		-
+linear time algorithm		spanning tree problem		-
+linear time algorithm		sub graph		-
+linear time algorithm		suffix tree		-
+linear time algorithm		suffix trie		-
+linear time algorithm		undirected graph		-
+linear time algorithm		union find		-
+linked list		random hash function		-
+linked list		random variable		-
+linked list		randomized quick sort		-
+linked list		splay trees		-1
+linked list		tilde notation		-
+linked list		merge sort		-
+linked list		nearest neighbor		-
+linked list		priority queue		-1
+linked list		quick sort		-
+linked list		random hash		-
+linked list		range search		-
+linked list		recursive algorithm		-
+linked list		recursive call		-
+linked list		red black tree		-1
+linked list		regular binary search		-
+linked list		search algorithm		-
+linked list		search problem		-
+linked list		search tree		-1
+linked list		search tree algorithm		-
+linked list		select algorithm		-
+linked list		selection problem		-
+linked list		shortest path		-
+linked list		sort algorithm		-
+linked list		sub tree		-1
+linked list		theta notation		-
+linked list		undirected graph		-
+log star function		merge sort		-
+log star function		minimum spanning tree		-
+log star function		mst algorithm		-
+log star function		mst problem		-
+log star function		mst verification		-
+log star function		quick sort		-
+log star function		randomized algorithm		-
+log star function		recursive algorithm		-
+log star function		search tree		-
+log star function		sort algorithm		-
+log star function		sorting problem		-
+log star function		spanning tree		-
+log star function		spanning tree algorithm		-
+log star function		spanning tree problem		-
+log star function		union find		-
+longest path problem		polynomial time		-
+longest path problem		polynomial time algorithm		-
+longest path problem		search problem		-
+longest path problem		shortest path		-
+longest path problem		shortest path problem		-
+longest path problem		traveling salesman problem		-
+memory footprint		o notation		-
+memory footprint		pattern matching		-
+memory footprint		suffix tree		-
+memory footprint		suffix trie		-
+merge sort		minimum spanning tree		-
+merge sort		mst algorithm		-
+merge sort		mst problem		-
+merge sort		mst verification		-
+merge sort		naive recursive algorithm		-
+merge sort		o notation		-
+merge sort		priority queue		1-
+merge sort		quadratic algorithm		-
+merge sort		quadratic time algorithm		-
+merge sort		quick sort		-
+merge sort		random permutation		-
+merge sort		random variable		-
+merge sort		randomized algorithm		-
+merge sort		randomized quick sort		-
+merge sort		randomized selection algorithm		-
+merge sort		recurrence tree		-
+merge sort		recursive algorithm		-
+merge sort		recursive call		-
+merge sort		search algorithm		-
+merge sort		search tree		-
+merge sort		select algorithm		-
+merge sort		selection problem		-
+merge sort		selection sort		-
+merge sort		shortest path		-
+merge sort		shortest path algorithm		-
+merge sort		sort algorithm		-
+merge sort		sorting problem		-
+merge sort		spanning tree		-
+merge sort		spanning tree algorithm		-
+merge sort		spanning tree problem		-
+merge sort		sub graph		-
+merge sort		sub tree		-
+merge sort		theta notation		-
+merge sort		union find		-
+minimum cut problem		programming problems		1-
+minimum cut problem		random contraction algorithm		-1
+minimum cut problem		random variable		-
+minimum cut problem		randomized algorithm		-
+minimum cut problem		residual network		-
+minimum cut problem		undirected graph		1-
+minimum dist		minimum spanning tree		-1
+minimum dist		priority queue		-
+minimum dist		shortest path		-
+minimum dist		spanning tree		-
+minimum dist		traveling salesman problem		-
+minimum spanning tree		mst algorithm		-1
+minimum spanning tree		mst problem		-1
+minimum spanning tree		mst verification		-1
+minimum spanning tree		nearest neighbor		-
+minimum spanning tree		o notation		-
+minimum spanning tree		polynomial algorithm		-
+minimum spanning tree		polynomial time		-
+minimum spanning tree		polynomial time algorithm		-
+minimum spanning tree		priority queue		-
+minimum spanning tree		programming algorithms		-
+minimum spanning tree		quick sort		-
+minimum spanning tree		randomized algorithm		-
+minimum spanning tree		randomized quick sort		-
+minimum spanning tree		recursive algorithm		-
+minimum spanning tree		search problem		-
+minimum spanning tree		search tree		-
+minimum spanning tree		shortest path		-
+minimum spanning tree		shortest path algorithm		-
+minimum spanning tree		shortest path problem		-
+minimum spanning tree		sort algorithm		-
+minimum spanning tree		sorting problem		-
+minimum spanning tree		spanning tree		1-
+minimum spanning tree		spanning tree algorithm		1-
+minimum spanning tree		spanning tree problem		1-
+minimum spanning tree		sub graph		-
+minimum spanning tree		traveling salesman problem		-
+minimum spanning tree		triangle inequality		-
+minimum spanning tree		undirected graph		-
+minimum spanning tree		union approach		-
+minimum spanning tree		union find		-
+mst algorithm		mst problem		1-
+mst algorithm		mst verification		-1
+mst algorithm		quick sort		-
+mst algorithm		randomized algorithm		-
+mst algorithm		shortest path		-
+mst algorithm		shortest path algorithm		-
+mst algorithm		shortest path problem		-
+mst algorithm		sort algorithm		-
+mst algorithm		sorting problem		-
+mst algorithm		spanning tree		1-
+mst algorithm		spanning tree algorithm		1-
+mst algorithm		spanning tree problem		1-
+mst algorithm		sub graph		1-
+mst algorithm		undirected graph		1-
+mst algorithm		union find		-
+mst problem		mst verification		-
+mst problem		quick sort		-
+mst problem		randomized algorithm		-
+mst problem		shortest path		-
+mst problem		shortest path algorithm		-
+mst problem		shortest path problem		-
+mst problem		sort algorithm		-
+mst problem		sorting problem		-
+mst problem		spanning tree		1-
+mst problem		spanning tree algorithm		-
+mst problem		spanning tree problem		1-
+mst problem		sub graph		1-
+mst problem		undirected graph		1-
+mst problem		union find		-
+mst verification		quick sort		-
+mst verification		randomized algorithm		-
+mst verification		sort algorithm		-
+mst verification		sorting problem		-
+mst verification		spanning tree		1-
+mst verification		spanning tree algorithm		-
+mst verification		spanning tree problem		-
+mst verification		union find		-
+naive recursive algorithm		o notation		-
+naive recursive algorithm		recursive algorithm		1-
+naive recursive algorithm		recursive call		-
+naive recursive algorithm		search algorithm		-
+naive recursive algorithm		sort algorithm		-
+nearest neighbor		o notation		-
+nearest neighbor		programming algorithms		-
+nearest neighbor		quick sort		-
+nearest neighbor		randomized algorithm		-
+nearest neighbor		randomized quick sort		-
+nearest neighbor		range search		-
+nearest neighbor		recursive algorithm		-
+nearest neighbor		regular binary search		-
+nearest neighbor		search problem		-
+nearest neighbor		search tree		-
+nearest neighbor		shortest path		-
+nearest neighbor		sort algorithm		-
+nearest neighbor		spanning tree		-
+nearest neighbor		sub tree		-
+network flows		residual graph		1-
+network flows		residual network		1-
+network flows		shortest path		-1
+np-complete problem		polynomial algorithm		-
+np-complete problem		polynomial time		-
+np-complete problem		polynomial time algorithm		-
+np-complete problem		recursive call		-
+np-complete problem		satisfiability problem		-
+np-complete problem		search algorithm		-
+np-complete problem		search problem		-
+np-complete problem		traveling salesman problem		1-
+o notation		pattern matching		-
+o notation		priority queue		-
+o notation		programming algorithms		-
+o notation		quadratic time algorithm		-
+o notation		quick sort		-
+o notation		random variable		-
+o notation		randomized algorithm		-
+o notation		randomized quick sort		-
+o notation		randomized selection algorithm		-
+o notation		recurrence tree		-
+o notation		recursive algorithm		-
+o notation		recursive call		-
+o notation		search tree		-
+o notation		select algorithm		-
+o notation		selection problem		-
+o notation		shortest path		-
+o notation		sort algorithm		-
+o notation		spanning tree		-
+o notation		spanning tree problem		-
+o notation		suffix tree		-
+o notation		suffix trie		-
+o notation		theta notation		-
+o notation		tilde notation		-
+optimal binary search		optimal substructure lemma		1-
+optimal binary search		polynomial time		-
+optimal binary search		quadratic time algorithm		-
+optimal binary search		recursive call		-
+optimal binary search		red black tree		-
+optimal binary search		search tree		1-
+optimal binary search		search tree algorithm		1-
+optimal binary search		search tree problem		1-
+optimal binary search		sub tree		-
+optimal binary search		unbalanced tree		-
+optimal binary search		weighted search		1-
+optimal substructure lemma		polynomial time		-
+optimal substructure lemma		quadratic time algorithm		-
+optimal substructure lemma		recursive call		-
+optimal substructure lemma		search tree		-
+optimal substructure lemma		search tree algorithm		-
+optimal substructure lemma		search tree problem		-
+optimal substructure lemma		sub tree		1-
+optimal substructure lemma		weighted search		-
+pattern matching		string algorithms		1-
+pattern matching		suffix tree		-1
+pattern matching		suffix trie		-1
+polynomial algorithm		polynomial time		1-
+polynomial algorithm		polynomial time algorithm		1-
+polynomial algorithm		search problem		-
+polynomial algorithm		spanning tree		-
+polynomial hash		random hash		1-
+polynomial hash		random hash function		-
+polynomial time		polynomial time algorithm		-1
+polynomial time		quadratic time algorithm		-1
+polynomial time		recursive algorithm		-
+polynomial time		recursive call		-
+polynomial time		satisfiability problem		-
+polynomial time		search algorithm		-
+polynomial time		search problem		-
+polynomial time		search tree		-
+polynomial time		search tree algorithm		-
+polynomial time		search tree problem		-
+polynomial time		shortest path		-
+polynomial time		shortest path problem		-
+polynomial time		spanning tree		-
+polynomial time		spanning tree problem		-
+polynomial time		traveling salesman problem		-
+polynomial time		triangle inequality		-
+polynomial time		undirected graph		-
+polynomial time		weighted search		-
+polynomial time algorithm		satisfiability problem		-
+polynomial time algorithm		search problem		-
+polynomial time algorithm		shortest path		-
+polynomial time algorithm		shortest path problem		-
+polynomial time algorithm		spanning tree		-
+polynomial time algorithm		spanning tree problem		-
+polynomial time algorithm		traveling salesman problem		-
+polynomial time algorithm		undirected graph		-
+priority queue		quadratic algorithm		-
+priority queue		quadratic time algorithm		-
+priority queue		quick sort		-
+priority queue		randomized quick sort		-
+priority queue		range search		-
+priority queue		regular binary search		-
+priority queue		reverse search		-
+priority queue		search problem		-
+priority queue		search tree		-
+priority queue		search tree algorithm		-
+priority queue		select algorithm		-
+priority queue		selection problem		-
+priority queue		selection sort		-
+priority queue		shortest path		-
+priority queue		shortest path algorithm		-
+priority queue		sort algorithm		1-
+priority queue		spanning tree		-
+priority queue		spanning tree problem		-
+priority queue		sub tree		-
+priority queue		sweep line algorithm		-
+programming algorithms		quick sort		-
+programming algorithms		randomized algorithm		-
+programming algorithms		randomized quick sort		-
+programming algorithms		recursive algorithm		-
+programming algorithms		recursive call		-
+programming algorithms		search tree		-
+programming algorithms		sequence alignment problem		-
+programming algorithms		shortest path		-
+programming algorithms		shortest path algorithm		-
+programming algorithms		sort algorithm		-
+programming algorithms		spanning tree		-
+programming algorithms		undirected graph		-
+programming problems		residual network		-1
+quadratic algorithm		quadratic time algorithm		1-
+quadratic algorithm		quick sort		-
+quadratic algorithm		random permutation		-
+quadratic algorithm		range search		-
+quadratic algorithm		regular binary search		-
+quadratic algorithm		search algorithm		-
+quadratic algorithm		search problem		-
+quadratic algorithm		search tree		-
+quadratic algorithm		search tree algorithm		-
+quadratic algorithm		selection sort		-
+quadratic algorithm		sort algorithm		-
+quadratic algorithm		sweep line algorithm		-
+quadratic time algorithm		quick sort		-
+quadratic time algorithm		randomized quick sort		-
+quadratic time algorithm		recursive algorithm		-
+quadratic time algorithm		recursive call		-
+quadratic time algorithm		search algorithm		-
+quadratic time algorithm		search tree		-
+quadratic time algorithm		search tree algorithm		-
+quadratic time algorithm		search tree problem		-
+quadratic time algorithm		select algorithm		-
+quadratic time algorithm		selection sort		-
+quadratic time algorithm		shortest path		-
+quadratic time algorithm		shortest path algorithm		-
+quadratic time algorithm		sort algorithm		-
+quick sort		random hash		-
+quick sort		random hash function		-
+quick sort		random permutation		-
+quick sort		random variable		-
+quick sort		randomized algorithm		-
+quick sort		randomized quick sort		-1
+quick sort		randomized selection algorithm		-
+quick sort		recurrence tree		-
+quick sort		recursive algorithm		1-
+quick sort		recursive call		1-
+quick sort		red black tree		-
+quick sort		search tree		-
+quick sort		select algorithm		-
+quick sort		selection problem		-
+quick sort		selection sort		-
+quick sort		shortest path		-
+quick sort		shortest path algorithm		-
+quick sort		sort algorithm		-
+quick sort		sorting problem		-
+quick sort		spanning tree		-
+quick sort		spanning tree algorithm		-
+quick sort		spanning tree problem		-
+quick sort		stable sort		-
+quick sort		sub tree		-
+quick sort		theta notation		-
+quick sort		union find		-
+random contraction algorithm		random variable		-
+random contraction algorithm		randomized algorithm		1-
+random contraction algorithm		undirected graph		1-
+random hash		random hash function		1-
+random hash		random variable		1-
+random hash		randomized quick sort		-
+random hash		sort algorithm		-
+random hash		theta notation		-
+random hash function		random variable		1-
+random hash function		randomized quick sort		-
+random hash function		sort algorithm		-
+random hash function		theta notation		-
+random permutation		sort algorithm		-1
+random variable		randomized algorithm		-
+random variable		randomized quick sort		-
+random variable		randomized selection algorithm		-1
+random variable		recurrence tree		-
+random variable		recursive call		-
+random variable		select algorithm		-
+random variable		selection problem		-
+random variable		sort algorithm		-
+random variable		sorting problem		-
+random variable		theta notation		-
+random variable		undirected graph		-
+randomized algorithm		randomized quick sort		-1
+randomized algorithm		randomized selection algorithm		-1
+randomized algorithm		recurrence tree		-
+randomized algorithm		recursive algorithm		-
+randomized algorithm		recursive call		-
+randomized algorithm		search tree		-
+randomized algorithm		select algorithm		-
+randomized algorithm		selection problem		-
+randomized algorithm		shortest path		-
+randomized algorithm		shortest path algorithm		-
+randomized algorithm		sort algorithm		-
+randomized algorithm		sorting problem		-
+randomized algorithm		spanning tree		-
+randomized algorithm		spanning tree algorithm		-
+randomized algorithm		spanning tree problem		-
+randomized algorithm		stable sort		-
+randomized algorithm		undirected graph		-
+randomized algorithm		union find		-
+randomized quick sort		randomized selection algorithm		-
+randomized quick sort		recursive algorithm		-
+randomized quick sort		recursive call		-
+randomized quick sort		search tree		-
+randomized quick sort		select algorithm		-
+randomized quick sort		selection sort		-
+randomized quick sort		shortest path		-
+randomized quick sort		shortest path algorithm		-
+randomized quick sort		sort algorithm		1-
+randomized quick sort		sorting problem		1-
+randomized quick sort		spanning tree		-
+randomized quick sort		theta notation		-
+randomized selection algorithm		recursive call		-
+randomized selection algorithm		select algorithm		1-
+randomized selection algorithm		selection problem		1-
+randomized selection algorithm		sort algorithm		1-
+randomized selection algorithm		sorting problem		1-
+randomized selection algorithm		theta notation		-
+range search		regular binary search		-
+range search		search problem		1-
+range search		search tree		-
+range search		search tree algorithm		-
+range search		sub tree		-
+range search		sweep line algorithm		-
+recurrence tree		recursive algorithm		-
+recurrence tree		recursive call		-
+recurrence tree		selection sort		-
+recurrence tree		sort algorithm		-
+recursive algorithm		recursive call		1-
+recursive algorithm		residual graph		-
+recursive algorithm		search algorithm		-
+recursive algorithm		search tree		-
+recursive algorithm		selection sort		-
+recursive algorithm		shortest path		-
+recursive algorithm		sort algorithm		-
+recursive algorithm		sorting problem		-
+recursive algorithm		spanning tree		-
+recursive algorithm		sub graph		-
+recursive algorithm		theta notation		-
+recursive algorithm		undirected graph		-
+recursive algorithm		union find		-
+recursive call		red black tree		-
+recursive call		residual graph		-
+recursive call		satisfiability problem		-
+recursive call		search algorithm		-
+recursive call		search problem		-
+recursive call		search tree		-
+recursive call		search tree algorithm		-
+recursive call		search tree problem		-
+recursive call		select algorithm		-
+recursive call		selection problem		-
+recursive call		selection sort		-
+recursive call		sort algorithm		-
+recursive call		sorting problem		-
+recursive call		spanning tree		-
+recursive call		sub graph		-
+recursive call		sub tree		-
+recursive call		theta notation		-
+recursive call		undirected graph		-
+recursive call		weighted search		-
+red black tree		regular binary search		-
+red black tree		search tree		-
+red black tree		search tree problem		-
+red black tree		select algorithm		-
+red black tree		selection problem		-
+red black tree		shortest path		-
+red black tree		splay trees		-
+red black tree		sub tree		-
+red black tree		unbalanced tree		-
+red black tree		weighted search		-
+regular binary search		search problem		1-
+regular binary search		search tree		-
+regular binary search		search tree algorithm		-
+regular binary search		shortest path		-
+regular binary search		sub tree		-
+regular binary search		sweep line algorithm		-
+residual graph		residual network		-1
+residual graph		search algorithm		-
+residual graph		shortest path		-
+residual graph		undirected graph		1-
+residual network		shortest path		-
+reverse search		shortest path		-
+reverse search		shortest path algorithm		-
+satisfiability problem		search algorithm		-
+satisfiability problem		search problem		-
+search algorithm		search problem		1-
+search algorithm		search tree		-
+search algorithm		shortest path		-
+search algorithm		shortest path algorithm		-
+search algorithm		shortest path tree		-
+search algorithm		sort algorithm		-
+search algorithm		theta notation		-
+search algorithm		traveling salesman problem		-
+search algorithm		triangle inequality		-
+search algorithm		undirected graph		-
+search problem		search tree		-1
+search problem		search tree algorithm		-1
+search problem		shortest path		-
+search problem		shortest path problem		-
+search problem		sort algorithm		-
+search problem		sorting problem		-
+search problem		spanning tree		-
+search problem		spanning tree problem		-
+search problem		sub tree		-
+search problem		sweep line algorithm		-
+search problem		traveling salesman problem		-1
+search problem		undirected graph		-
+search tree		search tree algorithm		-1
+search tree		search tree problem		-1
+search tree		select algorithm		-
+search tree		selection problem		-
+search tree		selection sort		-
+search tree		shortest path		-
+search tree		shortest path algorithm		-
+search tree		sort algorithm		-
+search tree		spanning tree		-
+search tree		splay trees		-
+search tree		sub tree		-
+search tree		sweep line algorithm		-
+search tree		unbalanced tree		1-
+search tree		undirected graph		-
+search tree		union find		-1
+search tree		weighted search		-
+search tree algorithm		search tree problem		1-
+search tree algorithm		sub tree		-
+search tree algorithm		sweep line algorithm		-
+search tree problem		unbalanced tree		-
+search tree problem		weighted search		-
+select algorithm		selection problem		1-
+select algorithm		selection sort		-1
+select algorithm		shortest path		-
+select algorithm		shortest path algorithm		-
+select algorithm		sort algorithm		1-
+select algorithm		sorting problem		-
+select algorithm		sub tree		-
+select algorithm		theta notation		-
+selection problem		sort algorithm		-
+selection problem		sorting problem		-
+selection problem		stable sort		-
+selection problem		sub tree		-
+selection sort		shortest path		-
+selection sort		shortest path algorithm		-
+selection sort		sort algorithm		1-
+selection sort		sorting problem		1-
+selection sort		stable sort		-
+selection sort		sub tree		-
+shortest path		shortest path algorithm		-1
+shortest path		shortest path problem		-1
+shortest path		shortest path tree		-1
+shortest path		smallest greedy		-
+shortest path		sort algorithm		-
+shortest path		spanning tree		-
+shortest path		spanning tree algorithm		-
+shortest path		spanning tree problem		-
+shortest path		sub graph		-
+shortest path		traveling salesman problem		-
+shortest path		triangle inequality		-
+shortest path		undirected graph		1-
+shortest path algorithm		shortest path problem		1-
+shortest path algorithm		smallest greedy		1-
+shortest path algorithm		sort algorithm		-
+shortest path algorithm		spanning tree		-
+shortest path algorithm		spanning tree algorithm		-
+shortest path algorithm		spanning tree problem		-
+shortest path algorithm		sub graph		-
+shortest path algorithm		triangle inequality		-
+shortest path algorithm		undirected graph		1-
+shortest path problem		smallest greedy		-
+shortest path problem		spanning tree		-
+shortest path problem		spanning tree problem		-
+shortest path problem		sub graph		1-
+shortest path problem		traveling salesman problem		1-
+shortest path problem		undirected graph		-
+shortest path tree		undirected graph		1-
+sort algorithm		sorting problem		1-
+sort algorithm		spanning tree		-
+sort algorithm		spanning tree algorithm		-
+sort algorithm		spanning tree problem		-
+sort algorithm		stable sort		-1
+sort algorithm		sub tree		-
+sort algorithm		union find		-
+sorting problem		spanning tree		-
+sorting problem		spanning tree algorithm		-
+sorting problem		spanning tree problem		-
+sorting problem		union find		-
+spanning tree		spanning tree algorithm		-1
+spanning tree		spanning tree problem		-1
+spanning tree		sub graph		1-
+spanning tree		sub tree		-
+spanning tree		traveling salesman problem		-
+spanning tree		triangle inequality		-
+spanning tree		undirected graph		1-
+spanning tree		union approach		-
+spanning tree		union find		-
+spanning tree algorithm		spanning tree problem		1-
+spanning tree algorithm		undirected graph		1-
+spanning tree algorithm		union approach		-
+spanning tree algorithm		union find		-
+spanning tree problem		sub graph		-
+spanning tree problem		traveling salesman problem		-
+spanning tree problem		undirected graph		-
+spanning tree problem		union find		-
+sparse graphs		undirected graph		-
+splay trees		unbalanced tree		-
+sub graph		undirected graph		-
+sub tree		union approach		-
+sub tree		weighted search		-
+suffix tree		suffix trie		-1
+theta notation		tilde notation		-
+traveling salesman problem		triangle inequality		-
+traveling salesman problem		undirected graph		1-
+triangle inequality		undirected graph		-
+unbalanced tree		weighted search		-
+union approach		union find		-1

@@ -1,0 +1,244 @@
+activation function
+activation values
+adaboost
+agglomerative clustering
+anomalous example::;anomalous examples
+anomaly detection
+back prop::;back propagation
+batch gradient descent
+bayesian approach
+bayesian inference
+bias problem
+bias unit::;bias units
+bias variance trade-off::;bias variance tradeoff
+big data sets::;large data sets::;large datasets
+binary classification
+boosting algorithm
+character recognition
+character segmentation
+classification accuracy
+classification approach::;classification model::;classification algorithm
+classification error
+classification problem::;classification problems::;classification task
+cluster center::;cluster centers::;cluster centroid::;cluster centroids
+cluster::;clusters
+clustering algorithm::;clustering model
+collaborative filtering
+features::;feature
+computer vision
+concave function
+conditional distribution
+conditional probabilities
+confusion matrix
+conjugate gradient
+convergence test
+convex function::;convex functions
+coordinate descent
+covariance matrix
+cross validation
+cross validation error::;cross-validation error
+cross validation sets
+data representation
+data set::;data sets
+decision boundaries::;decision boundary
+decision stamp::;decision stumps
+decision tree::;decision trees
+deep features
+deep learning
+deep neural network::;deep neural networks
+derivative term::;derivative terms
+design matrix
+dimensionality reduction
+document retrieval
+early stopping
+error analysis
+error cost function
+estimated parameters
+evaluation metrics
+expectation maximization
+f1 score
+face detection
+false negative::;false negatives
+false positives
+feature engineering
+feature extraction::;feature extractor
+feature scaling
+feature selection
+feature space
+feature vector::;feature vectors
+forward propagation
+gaussian density::;gaussian probability density::;gaussian distribution::;normal distribution
+gaussian kernel
+gaussian model
+gaussian random variable
+generalization error
+generalized linear models
+gibbs sampler::;gibbs sampling
+global minimum
+global optimum
+gradient algorithm
+gradient ascent
+gradient checking
+gradient descent
+greedy algorithm::;greedy algorithms
+hidden layer::;hidden layers
+hidden unit::;hidden units
+hierarchical clustering
+high order polynomial::;high order polynomials
+precision
+recall
+hypothesis
+identity matrics::;identity matrix
+image classification
+image retrieval
+inner product::;inner products
+input data
+input layer
+input space
+input units::;input wires
+iterative algorithm
+joint model probability
+k means::;k-means
+k nearest neighbors::;k-nearest neighbor::;k-nearest neighbors
+k-means objective
+kernel function
+kernel regression
+l1 penalty
+labeled data
+large margin classifier
+lasso regression
+latent dirichlet allocation::;lda model
+learning curve::;learning curves
+learning method::;learning methods::;learning model::;learning algorithm::;learning algorithms
+learning problem::;learning problems::;learning task
+learning rate
+learning system
+least squares
+likelihood function
+linear algebra
+linear classifier::;linear classifiers
+linear kernel
+linear model::;linear models
+linear regression
+local minimum
+local optima::;local optimum
+locality sensitive hashing
+log likelihood
+logistic function
+logistic regression
+loss function::;loss functions::;objective function::;cost function::;cost functions
+low rank matrix
+machine learning
+machine learning algorithm::;machine learning algorithms::;machine learning method::;machine learning methods::;machine learning model
+machine learning application
+machine learning system
+massive training set
+matrix addition
+matrix factorization
+matrix multiplication::;matrix-matrix multiplication
+matrix transpose
+matrix vector multiplication::;matrix-vector multiplication
+maximum likelihood
+maximum likelihood estimate::;maximum likelihood estimation
+mean normalization
+mean square error::;mean squared error
+mini-batch gradient descent
+mini-batch size
+minimization problem
+misclassification error
+mixture model::;mixture models
+model complexity
+model parameters
+model selection
+multi-class classification::;multiclass classification
+multivariate gaussian distribution
+multivariate gaussian model
+nearest neighbor search
+nearest neighbors::;nearest neighbour
+negative example::;negative examples
+neural network::;neural networks
+neural network learning
+non-anomalous examples
+nonlinear hypotheses
+normal equation
+normalized features
+normalized representation
+matrix::;matrices
+ocr problem
+online learning
+optimal solution::;optimal value
+optimization algorithms::;optimization methods
+optimization objective
+optimization problem
+output label
+output layer::;output wire
+output unit::;output units
+parameter estimation
+parameter vector
+partial derivative::;partial derivatives
+pca algorithm
+pedestrian detection
+photo ocr
+polynomial features
+polynomial kernel
+polynomial regression
+polynomial terms
+positive class
+positive data::;positive example::;positive examples
+positive predictions
+positive training example
+precision recall curve
+predicted class
+predicted value::;predicted values
+prediction error
+principle components
+prior probability
+probabilistic model
+probability density
+random numbers
+random variable::;random variables
+recommender system::;recommender systems
+regression coefficients
+regression function
+regression model::;regression models
+regression problem
+regularization
+regularized linear regression
+regularized logistic regression
+sentiment analysis
+sentiment classifier
+sigmoid function
+spam filtering::;spam classifier
+square distances::;squared distance
+square matrix
+square projection error::;squared projection error
+squared error
+standard deviation
+standard least squares
+stochastic gradient algorithm::;stochastic gradient descent
+string kernel
+supervised learning
+support vector
+support vector machine::;support vector machines
+svm optimization
+svm packages
+symmetric matrix
+test data::;test examples
+test data set::;test set::;test sets
+test error::;test set error
+training data::;training example::;training examples
+training data set::;training data sets::;training dataset::;training set::;training sets
+training error::;training set error::;train error
+transfer learning
+true negatives
+true positives
+tuning parameter::;tuning parameters
+unnormalized features
+unsupervised learning
+validation error
+validation set::;validation sets
+variance problem
+vector multiplication
+weak classifier::;weak classifiers
+overfitting
+underfitting
