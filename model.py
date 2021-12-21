@@ -101,7 +101,7 @@ class Main_model(Module):
 
         if opt.usebert:
             self.embedding.load_state_dict(
-                {'weight': torch.load('fine_tuning/' + opt.dataset + '_model/' + opt.dataset + '_bert_embeddings.pt', map_location={'cuda:2':'cuda:'+ str(opt.device)})})
+                {'weight': torch.load('/data/sunhao/code/ConLearn/fine_tuning/' + opt.dataset + '_model/' + opt.dataset + '_bert_embeddings.pt', map_location={'cuda:2':'cuda:'+ str(opt.device)})})
             if not opt.updatebert:
                 self.embedding.weight.requires_grad = False
 

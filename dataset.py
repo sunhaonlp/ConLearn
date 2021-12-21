@@ -17,7 +17,7 @@ class Prerequisite_dataset():
             self.data = [[pre_list[i][0], pre_list[i][1]] for i in range(int(ratio_train * len(pre_list)) - 1)]
             self.data.extend([[pre_pair[0], pre_pair[1]] for pre_pair in self.data[:int(0.5 * len(self.data))]])
             self.labels = [1 for _ in range(int(ratio_train * len(pre_list)) - 1)]
-            self.labels.extend([1 for _ in range(int(len(self.labels)*0.5))])
+            self.labels.extend([1 for _ in range(int(len(self.labels) * 0.5))])
 
         if (mode == "validate"):
             self.data_ = [[pre_list[i][0], pre_list[i][1]] for i in range(int(ratio_train * len(pre_list)), int(ratio_test * len(pre_list)) - 1)]
@@ -39,7 +39,7 @@ class Prerequisite_dataset():
 
     def generate_negative_samples(self, id2con, pre_dict, pre_dict_reverse):
 
-        for i in range(len(self.data_)):
+        for i in range(int(len(self.data_) * 0.2)):
             con_a = self.data_[i][0]
             con_b = self.data_[i][1]
 

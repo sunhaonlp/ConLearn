@@ -2,25 +2,29 @@ import torch
 from earlystop import EarlyStopping
 import numpy as np
 
-def construct_graph(con1, con2, device):
+def construct_graph(con1, con2, label, device):
     items, n_node, A, alias_inputs = [], [], [], []
     con_1= con1.numpy().tolist()
     con_2 = con2.numpy().tolist()
+    labels = label.numpy().tolist()
 
     node_set = set(con_1) | set(con_2)
-
     max_n_node = len(node_set)
     node = np.array(list(node_set))
     items.append(node.tolist() + (max_n_node - len(node)) * [0])
     u_A = np.zeros((max_n_node, max_n_node))
 
-    instance_1 = []
-    instance_2 = []
+    positive_instance = []
+    negative_instance = []
     for i in range(len(con_1)):
-        instance_1.extend([np.where(node == con_1[i])[0][0]])
-        instance_2.extend([np.where(node == con_2[i])[0][0]])
-        u = np.where(node == con_1[i])[0][0]
-        v = np.where(node == con_2[i])[0][0]
+        if(labels[i]):
+            positive_instance.extend([[con_1[i], con_2[i]]])
+        else:
+            negative_instance.extend([[con_1[i], con_2[i]]])
+
+    for i in range(int(len(positive_instance) * 0.6)):
+        u = np.where(node == positive_instance[i][0])[0][0]
+        v = np.where(node == positive_instance[i][1])[0][0]
         u_A[u][v] = 1
     u_sum_in = np.sum(u_A, 0)
     u_sum_in[np.where(u_sum_in == 0)] = 1
@@ -31,7 +35,16 @@ def construct_graph(con1, con2, device):
     u_A = np.concatenate([u_A_in, u_A_out]).transpose()
     A.append(u_A)
 
-    return torch.FloatTensor(A)[0].to(device), torch.LongTensor(items)[0].to(device), torch.tensor(instance_1).to(device), torch.tensor(instance_2).to(device)
+    labels_ = [0 for _ in range(len(negative_instance))]
+    negative_instance.extend(positive_instance[int(len(positive_instance) * 0.6):])
+    labels_.extend([1 for _ in range(len(positive_instance[int(len(positive_instance) * 0.6):]))])
+
+    instance_1 = []
+    instance_2 = []
+    for i in range(len(negative_instance)):
+        instance_1.extend([np.where(node == negative_instance[i][0])[0][0]])
+        instance_2.extend([np.where(node == negative_instance[i][1])[0][0]])
+    return torch.FloatTensor(A)[0].to(device), torch.LongTensor(items)[0].to(device), torch.tensor(instance_1).to(device), torch.tensor(instance_2).to(device), torch.tensor(labels_, dtype=torch.float).to(device)
 
 def evaluation(mode, model, eval_dataloader, device):
     with torch.no_grad():
@@ -42,10 +55,10 @@ def evaluation(mode, model, eval_dataloader, device):
         fn = 0
         tn = 0
         for ii, eval_data in enumerate(eval_dataloader):
-            A, items, eval_instance_1, eval_instance_2 = construct_graph(eval_data[0][:, 0], eval_data[0][:, 1], device)
+            A, items, eval_instance_1, eval_instance_2, labels = construct_graph(eval_data[0][:,0], eval_data[0][:,1], eval_data[1], device)
             preds = model(items, A, eval_instance_1, eval_instance_2)
             prediction = list(preds[:, 0].cpu().numpy())
-            labels = list(eval_data[1].cpu().numpy())
+            labels = list(labels.cpu().numpy())
             for i in range(len(prediction)):
                 if (prediction[i] > 0.5 and labels[i] == 1):
                     tp += 1
@@ -82,9 +95,8 @@ def train(args, model, optimizer, criterion, train_dataloader, valid_dataloader,
         model.train()
         loss_sum = 0
         for i, train_data in enumerate(train_dataloader):
-            A, items, train_instance_1, train_instance_2 = construct_graph(train_data[0][:,0], train_data[0][:,1], device)
+            A, items, train_instance_1, train_instance_2, labels = construct_graph(train_data[0][:,0], train_data[0][:,1], train_data[1], device)
             optimizer.zero_grad()
-            labels = train_data[1].to(device)
             outputs = model(items, A, train_instance_1, train_instance_2).squeeze(1)
             loss = criterion(outputs, labels)
             loss.backward()

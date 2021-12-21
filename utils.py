@@ -177,7 +177,7 @@ def construct_input_NPTEL():
 
 def construct_input_University():
     prerequisite_data = pd.read_csv(
-        "dataset/PREREQ-IAAI-19-masterdatasets/University Course Dataset/cs_preqs.csv",
+        "dataset/PREREQ-IAAI-19-master/datasets/University Course Dataset/cs_preqs.csv",
         header=None)
 
     node_set = set()
@@ -228,8 +228,8 @@ def construct_input_University():
 
 def construct_input_LectureBank():
     prerequisite_data = pd.read_csv(
-        "dataset/LectureBank-master/prerequisite_annotation.csv", header=None)
-    checkin_data = pd.read_csv("dataset/LectureBank-master/208topics.csv",
+        "/data/sunhao/code/ConLearn/dataset/LectureBank-master/prerequisite_annotation.csv", header=None)
+    checkin_data = pd.read_csv("/data/sunhao/code/ConLearn/dataset/LectureBank-master/208topics.csv",
                                header=None)
 
     node_set = set()
