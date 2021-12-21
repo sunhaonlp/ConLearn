@@ -1,5 +1,5 @@
 import argparse
-from model import Main_model
+from model import Con_learn
 import torch
 import numpy as np
 import random
@@ -33,28 +33,30 @@ def main(args):
 
     con2id, id2con, pre_dict, pre_dict_reverse, pre_list = construct_input(args.dataset)
 
-    train_dataset = Prerequisite_dataset(args, "train", con2id, id2con, pre_dict, pre_dict_reverse, pre_list)
+
+
+    train_dataset = Prerequisite_dataset(args, "train", device, pre_dict)
     train_dataloader = DataLoader(
         train_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.num_workers,
         drop_last=False)
 
-    valid_dataset = Prerequisite_dataset(args, "validate", con2id, id2con, pre_dict, pre_dict_reverse, pre_list)
+    valid_dataset = Prerequisite_dataset(args, "validate", device, pre_dict)
     valid_dataloader = DataLoader(
         valid_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.num_workers,
         drop_last=False)
 
-    test_dataset = Prerequisite_dataset(args, "test", con2id, id2con, pre_dict, pre_dict_reverse, pre_list)
+    test_dataset = Prerequisite_dataset(args, "test", device, pre_dict)
     test_dataloader = DataLoader(
         test_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.num_workers,
         drop_last=False)
 
-    model = Main_model(args, len(id2con)).to(device)
+    model = Con_learn(args, len(id2con)).to(device)
 
     optimizer = optim.AdamW(filter(lambda p: p.requires_grad, model.parameters()), lr=args.lr, weight_decay=args.l2)
 
     criterion = nn.BCELoss()
 
-    train(args, model, optimizer, criterion, train_dataloader, valid_dataloader, test_dataloader, device)
+    train(args, model, optimizer, criterion, train_dataloader, valid_dataloader, test_dataloader, device, pre_dict, pre_dict_reverse, id2con)
 
 
 if __name__ == "__main__":
@@ -81,7 +83,7 @@ if __name__ == "__main__":
     parser.add_argument("--epochs", type=int, default=100, help="epoch")
     parser.add_argument("--output_dir", type=str, default='./runs/', help="output_dir")
     parser.add_argument("--save_path", type=str, default='./save_models/', help="save_path")
-    parser.add_argument("--dataset", type=str, default='LectureBank', help="dataset")
+    parser.add_argument("--dataset", type=str, default='ML', help="dataset")
     parser.add_argument("--usebert", type=bool, default=True, help="usebert")
     parser.add_argument("--useglove", type=bool, default=False, help="useglove")
     parser.add_argument("--n_head", type=int, default=4, help="n_head")

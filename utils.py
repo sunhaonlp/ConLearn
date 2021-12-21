@@ -289,4 +289,11 @@ def construct_input(dataset):
     # random.shuffle(pre_list)
     # pre_list = pre_list[:int(0.8 * len(pre_list))]
 
-    return con2id, id2con, pre_dict, pre_dict_reverse, pre_list
+    pre_dict_ = dict()
+    pre_dict_reverse_ = dict()
+    for node in pre_dict.keys():
+        pre_dict_[node] = list(pre_dict[node])
+    for node in pre_dict_reverse.keys():
+        pre_dict_reverse_[node] = list(pre_dict_reverse[node])
+
+    return con2id, id2con, pre_dict_, pre_dict_reverse_, pre_list

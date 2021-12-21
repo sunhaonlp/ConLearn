@@ -64,10 +64,9 @@ class SelfAttention(nn.Module):
         seq_hidden_history = self.compress_layer(seq_hidden_history_attn) + seq_hidden_current
         return seq_hidden_history
 
-
-class Main_model(Module):
+class Con_learn(Module):
     def __init__(self, opt, n_node):
-        super(Main_model, self).__init__()
+        super(Con_learn, self).__init__()
         self.hidden_size = opt.hidden_size
         self.bert_size = opt.bert_size
         self.glove_size = opt.glove_size
