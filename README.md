@@ -1,6 +1,6 @@
 # ConLearn
 
-This is the source code for submission-61 of SDM 2022: ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network
+This is the source code for SDM 2022: ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network
 
 ## Dependencies
 
